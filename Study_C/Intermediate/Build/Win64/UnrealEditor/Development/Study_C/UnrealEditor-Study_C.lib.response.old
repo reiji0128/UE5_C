@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-Study_C.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\Study_CEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_C.cpp.obj"
-"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_CGameModeBase.cpp.obj"
-"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_C.init.gen.cpp.obj"
-"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_CGameModeBase.gen.cpp.obj"
-"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Default.rc2.res"
-/OUT:"C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\UnrealEditor-Study_C.lib"
+"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\Study_CEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_C.cpp.obj"
+"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_CGameModeBase.cpp.obj"
+"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_C.init.gen.cpp.obj"
+"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Study_CGameModeBase.gen.cpp.obj"
+"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\Default.rc2.res"
+/OUT:"D:\UE5_C++\UE5_C\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\UnrealEditor-Study_C.lib"

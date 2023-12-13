@@ -23,6 +23,12 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\Study_C">
       <UniqueIdentifier>{D20D06F2-2239-38F2-8D47-B5A35CEAACBC}</UniqueIdentifier>
     </Filter>
@@ -40,6 +46,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Study_C\Study_CGameModeBase.h">
       <Filter>Source\Study_C</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Private">
+      <UniqueIdentifier>{19D2B31A-00B7-31F3-8FA9-FF8B6ECC774A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Study_C\Private\Character">
+      <UniqueIdentifier>{8CD7BCC1-247D-3D6F-AEE9-31DBB37E8DF1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Character\BallPlayer.cpp">
+      <Filter>Source\Study_C\Private\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Public">
+      <UniqueIdentifier>{84117085-9292-3E8F-AF6C-96C257A352BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Study_C\Public\Character">
+      <UniqueIdentifier>{B962E5EE-7079-33F8-A6AC-290C00AF329A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Character\BallPlayer.h">
+      <Filter>Source\Study_C\Public\Character</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Study_C",
-			"Path": "D:\\UE5_C++\\UE5_C\\UE5_C\\Study_C\\Source\\Study_C.Target.cs",
+			"Path": "C:\\Users\\reiji\\Desktop\\UE5_C++\\UE5_C\\Study_C\\Source\\Study_C.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Study_CEditor",
-			"Path": "D:\\UE5_C++\\UE5_C\\UE5_C\\Study_C\\Source\\Study_CEditor.Target.cs",
+			"Path": "C:\\Users\\reiji\\Desktop\\UE5_C++\\UE5_C\\Study_C\\Source\\Study_CEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

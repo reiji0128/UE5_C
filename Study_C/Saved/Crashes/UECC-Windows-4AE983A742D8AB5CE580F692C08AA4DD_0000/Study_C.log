@@ -1,0 +1,1166 @@
+﻿Log file open, 12/19/23 20:29:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2548)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Study_C
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Study_C.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2428] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f89e7c81442c9a3bf5af5a9eb534b5b0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.430870
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4AE983A742D8AB5CE580F692C08AA4DD
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2428] (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.12.19-11.29.50:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.12.19-11.29.50:239][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.12.19-11.29.50:239][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.12.19-11.29.50:239][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.12.19-11.29.50:240][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.12.19-11.29.50:240][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.12.19-11.29.50:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.12.19-11.29.50:241][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.12.19-11.29.50:241][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.12.19-11.29.50:241][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.12.19-11.29.50:241][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.12.19-11.29.50:244][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.12.19-11.29.50:244][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.12.19-11.29.50:244][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.12.19-11.29.50:244][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.12.19-11.29.50:245][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.12.19-11.29.50:281][  0]LogD3D12RHI: Aftermath initialized
+[2023.12.19-11.29.50:281][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.12.19-11.29.50:520][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.19-11.29.50:520][  0]LogD3D12RHI: Adapter has 6009MB of dedicated video memory, 0MB of dedicated system memory, and 8081MB of shared system memory, 1 output[s]
+[2023.12.19-11.29.50:575][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.19-11.29.50:575][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8081MB of shared system memory, 0 output[s]
+[2023.12.19-11.29.50:593][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.12.19-11.29.50:593][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8081MB of shared system memory, 0 output[s]
+[2023.12.19-11.29.50:595][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.12.19-11.29.50:595][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.19-11.29.50:595][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.12.19-11.29.50:596][  0]LogHAL: Display: Platform has ~ 16 GB [16948453376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.19-11.29.50:596][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.12.19-11.29.50:596][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.12.19-11.29.50:596][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.19-11.29.50:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.12.19-11.29.50:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Config/WindowsEditor/Editor.ini]
+[2023.12.19-11.29.50:603][  0]LogInit: Computer: DESKTOP-3OSOGEP
+[2023.12.19-11.29.50:603][  0]LogInit: User: reiji
+[2023.12.19-11.29.50:603][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.12.19-11.29.50:603][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.19-11.29.50:603][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.12.19-11.29.50:603][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.12.19-11.29.50:603][  0]LogMemory: Process Physical Memory: 275.71 MB used, 281.82 MB peak
+[2023.12.19-11.29.50:603][  0]LogMemory: Process Virtual Memory: 231.96 MB used, 231.96 MB peak
+[2023.12.19-11.29.50:603][  0]LogMemory: Physical Memory: 6660.07 MB used,  9503.24 MB free, 16163.30 MB total
+[2023.12.19-11.29.50:603][  0]LogMemory: Virtual Memory: 7635.54 MB used,  17231.77 MB free, 24867.30 MB total
+[2023.12.19-11.29.50:603][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.12.19-11.29.50:610][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.19-11.29.50:644][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.12.19-11.29.50:647][  0]LogInit: Using OS detected language (ja-JP).
+[2023.12.19-11.29.50:647][  0]LogInit: Using OS detected locale (ja-JP).
+[2023.12.19-11.29.50:664][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so 'ja' will be used for the language.
+[2023.12.19-11.29.50:811][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.19-11.29.50:845][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.12.19-11.29.50:845][  0]LogWindowsTextInputMethodSystem:   - 日本語 (日本) - Microsoft IME (TSF IME).
+[2023.12.19-11.29.50:845][  0]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2023.12.19-11.29.50:912][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.19-11.29.50:912][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.19-11.29.54:654][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.12.19-11.29.54:660][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.12.19-11.29.54:660][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.12.19-11.29.54:817][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.12.19-11.29.54:884][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.12.19-11.29.54:893][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.12.19-11.29.54:913][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.12.19-11.29.54:938][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.12.19-11.29.54:938][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.12.19-11.29.54:974][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.19-11.29.54:974][  0]LogWindows: Attached monitors:
+[2023.12.19-11.29.54:974][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.12.19-11.29.54:974][  0]LogWindows: Found 1 attached monitors.
+[2023.12.19-11.29.54:974][  0]LogWindows: EnumDisplayDevices:
+[2023.12.19-11.29.54:974][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.12.19-11.29.54:974][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.12.19-11.29.54:975][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.12.19-11.29.54:975][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.12.19-11.29.54:975][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.12.19-11.29.54:975][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.12.19-11.29.54:975][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.12.19-11.29.54:976][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.12.19-11.29.54:976][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.12.19-11.29.54:976][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.12.19-11.29.54:976][  0]LogD3D12RHI:   Driver Version: 536.67 (internal:31.0.15.3667, unified:536.67)
+[2023.12.19-11.29.54:976][  0]LogD3D12RHI:      Driver Date: 7-12-2023
+[2023.12.19-11.29.54:976][  0]LogRHI: Texture pool is 3301 MB (70% of 4716 MB)
+[2023.12.19-11.29.54:976][  0]LogD3D12RHI: Async texture creation enabled
+[2023.12.19-11.29.54:976][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.12.19-11.29.55:013][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.12.19-11.29.55:028][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyReport_0.log" -log="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyLog_0.log" -project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject"  -platform=all'
+[2023.12.19-11.29.55:029][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyReport_0.log" -log="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyLog_0.log" -project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject"  -platform=all" ]
+[2023.12.19-11.29.55:079][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.12.19-11.29.55:112][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.12.19-11.29.55:112][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.19-11.29.55:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.19-11.29.55:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.12.19-11.29.55:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.12.19-11.29.55:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.19-11.29.55:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.19-11.29.55:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.19-11.29.55:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.12.19-11.29.55:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.19-11.29.55:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.19-11.29.55:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.12.19-11.29.55:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.12.19-11.29.55:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.12.19-11.29.55:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.19-11.29.55:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.19-11.29.55:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.19-11.29.55:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.12.19-11.29.55:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.19-11.29.55:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.19-11.29.55:211][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.12.19-11.29.55:229][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.19-11.29.55:235][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.12.19-11.29.55:235][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.12.19-11.29.55:235][  0]LogTargetPlatformManager:   ADPCM
+[2023.12.19-11.29.55:235][  0]LogTargetPlatformManager:   PCM
+[2023.12.19-11.29.55:241][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.12.19-11.29.55:241][  0]LogTargetPlatformManager:   BINKA
+[2023.12.19-11.29.55:241][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.12.19-11.29.55:241][  0]LogTargetPlatformManager:   OGG
+[2023.12.19-11.29.55:241][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.12.19-11.29.55:241][  0]LogTargetPlatformManager:   OPUS
+[2023.12.19-11.29.55:455][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.12.19-11.29.55:465][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.12.19-11.29.55:473][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.12.19-11.29.55:473][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.19-11.29.55:476][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.12.19-11.29.55:483][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.19-11.29.55:484][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.12.19-11.29.55:490][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.19-11.29.55:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.19-11.29.55:499][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.12.19-11.29.55:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.19-11.29.55:499][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.12.19-11.29.55:522][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.12.19-11.29.55:523][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.19-11.29.55:523][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.12.19-11.29.55:601][  0]LogDerivedDataCache: Speed tests for C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2023.12.19-11.29.55:602][  0]LogDerivedDataCache: Display: Performance to C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.25ms. RandomReadSpeed=13.82MBs, RandomWriteSpeed=127.91MBs. Assigned SpeedClass 'Local'
+[2023.12.19-11.29.55:604][  0]LogDerivedDataCache: Using Local data cache path C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.19-11.29.55:605][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.19-11.29.55:605][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.12.19-11.29.55:612][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.12.19-11.29.55:612][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.12.19-11.29.55:619][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/Shaders/WorkingDirectory/4588/).
+[2023.12.19-11.29.55:619][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/reiji/AppData/Local/Temp/UnrealShaderWorkingDir/AFB2A37C4635739A8E0CA29EC39A454D/'.
+[2023.12.19-11.29.55:620][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.19-11.29.55:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.12.19-11.30.00:988][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.12.19-11.30.00:988][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.19-11.30.01:003][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.19-11.30.01:061][  0]LogAssetRegistry: FAssetRegistry took 0.0151 seconds to start up
+[2023.12.19-11.30.01:067][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.12.19-11.30.01:425][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.12.19-11.30.01:440][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.12.19-11.30.01:697][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.19-11.30.01:697][  0]LogDeviceProfileManager: Active device profile: [00000632D8F5E380][00000632CB700000 50] WindowsEditor
+[2023.12.19-11.30.01:697][  0]LogDeviceProfileManager: Profiles: [00000632D8F5DE40][00000632CB702800 50] Windows, [00000632D8F5E380][00000632CB700000 50] WindowsEditor, [00000632D8F5D200][00000632CB70A000 50] WindowsServer, [00000632D8F5DAC0][00000632C09C7800 50] WindowsClient, [00000632D8F59300][00000632CB6C7800 50] IOS, [00000632D8F5D900][00000632CB705000 50] iPadAir2, [00000632D8F5D740][00000632D94C0000 50] IPadPro, [00000632D8F5EE00][00000632D94C2800 50] iPadAir3, [00000632D8F5B440][00000632D94C7800 50] iPadAir4, [00000632D8F5D580][00000632D94CA000 50] iPadMini4, [00000632D8F5B600][00000632D94CC800 50] iPadMini5, [00000632D8F5D3C0][00000632CB6C5000 50] iPadMini6, [00000632D9551500][00000632D94D2800 50] iPhone6S, [00000632D9551880][00000632D94D0000 50] iPhone7, [00000632D9551C00][00000632D94D5000 50] iPodTouch7, [00000632D9552680][00000632D94DA000 50] iPhone6SPlus, [00000632D95524C0][00000632D94DC800 50] iPhone7Plus, [00000632D9552300][00000632D94C5000 50] iPhoneSE, [00000632D9552140][00000632D94D7800 50] iPhone8, [00000632D9551F80][00000632D94B0000 50] iPhone8Plus, [00000632D9551180][00000632D94B5000 50] iPhoneX, [00000632D95508C0][00000632D94B7800 50] iPhoneXS, [00000632D9552D80][00000632D94BA000 50] iPhoneXSMax, [00000632D95501C0][00000632D94BC800 50] iPhoneXR, [00000632D9552840][00000632D1FDC800 50] iPhone11, [00000632D9550A80][00000632D9540000 50] iPhone11Pro, [00000632D9552BC0][00000632D9545000 50] iPhone11ProMax, [00000632D9550E00][00000632D9547800 50] iPhoneSE2, [00000632D9550380][00000632D954A000 50] iPhone12Mini, [00000632D95539C0][00000632D954C800 50] iPhone12, [00000632D9551DC0][00000632D94B2800 50] iPhone12Pro, [00000632D9552F40][00000632D9510000 50] iPhone12ProMax, [00000632D9550C40][00000632D9515000 50] iPhone13Mini, [00000632D9550700][00000632D9517800 50] iPhone13, [00000632D9551A40][00000632D951A000 50] iPhone13Pro, [00000632D9550540][00000632D951C800 50] iPhone13ProMax, [00000632D9553480][00000632D9542800 50] iPadPro105, [00000632D9553D40][00000632D9520000 50] iPadPro129, [00000632D9554980][00000632D9525000 50] iPadPro97, [00000632D9550FC0][00000632D9527800 50] iPadPro2_129, [00000632D9553F00][00000632D952A000 50] iPad5, [00000632D9551340][00000632D952C800 50] iPad6, [00000632D9553100][00000632D9512800 50] iPad7, [00000632D9550000][00000632D94E0000 50] iPad8, [00000632D9553640][00000632D94E5000 50] iPad9, [00000632D9554440][00000632D94E7800 50] iPadPro11, [00000632D9554D00][00000632D94EA000 50] iPadPro2_11, [00000632D9555940][00000632D94EC800 50] iPadPro3_11, [00000632D9553B80][00000632D9522800 50] iPadPro3_129, [00000632D9555080][00000632D94F0000 50] iPadPro4_129, [00000632D9553800][00000632D94F5000 50] iPadPro5_129, [00000632D95540C0][00000632D94F7800 50] AppleTV, [00000632D9552A00][00000632D94FA000 50] AppleTV4K, [00000632D95532C0][00000632D94FC800 50] TVOS, [00000632D9558F80][00000632D9570000 50] Mac, [00000632D9559300][00000632D9572800 50] MacEditor, [00000632D9558A40][00000632D9577800 50] MacClient, [00000632D9556740][00000632D957A000 50] MacServer, [00000632D95594C0][00000632D94E2800 50] Linux, [00000632D9556200][00000632D94F2800 50] LinuxEditor, [00000632D9557A80][00000632D957C800 50] LinuxArm64Editor, [00000632D95516C0][00000632D9560000 50] LinuxArm64, [00000632D9559A00][00000632D9565000 50] LinuxClient, [00000632D9556C80][00000632D9567800 50] LinuxArm64Client, [00000632D9558C00][00000632D956A000 50] LinuxServer, [00000632D9555780][00000632D956C800 50] LinuxArm64Server, [00000632D9558340][00000632D9575000 50] Android, [00000632D9555E80][00000632D9580000 50] Android_Preview_OpenGL, [00000632D9557FC0][00000632D9585000 50] Android_Preview_Vulkan, [00000632D9554280][00000632D9587800 50] Android_Low, [00000632D9554EC0][00000632D958A000 50] Android_Mid, [00000632D9556AC0][00000632D958C800 50] Android_High, [00000632D95555C0][00000632D9562800 50] Android_Default, [00000632D9555CC0][00000632D9590000 50] Android_Adreno4xx, [00000632D9557540][00000632D9595000 50] Android_Adreno5xx_Low, [00000632D9555B00][00000632D9597800 50] Android_Adreno5xx, [00000632D9555400][00000632D959A000 50] Android_Adreno6xx, [00000632D9559BC0][00000632D959C800 50] Android_Adreno6xx_Vulkan, [00000632D9554600][00000632D9582800 50] Android_Adreno7xx, [00000632D9557700][00000632D95A0000 50] Android_Adreno7xx_Vulkan, [00000632D9558500][00000632D95A5000 50] Android_Mali_T6xx, [00000632D9556040][00000632D95A7800 50] Android_Mali_T7xx, [00000632D95586C0][00000632D95AA000 50] Android_Mali_T8xx, [00000632D9556E40][00000632D95AC800 50] Android_Mali_G71, [00000632D9556900][00000632D9592800 50] Android_Mali_G72, [00000632D95547C0][00000632D95B0000 50] Android_Mali_G72_Vulkan, [00000632D9557E00][00000632D95B5000 50] Android_Mali_G76, [00000632D9559680][00000632D95B7800 50] Android_Mali_G76_Vulkan, [00000632D9558880][00000632D95BA000 50] Android_Mali_G77, [00000632D9559140][00000632D95BC800 50] Android_Mali_G77_Vulkan, [00000632D9558DC0][00000632D95A2800 50] Android_Mali_G78, [00000632D955A640][00000632D95C0000 50] Android_Mali_G78_Vulkan, [00000632D95578C0][00000632D95C5000 50] Android_Mali_G710, [00000632D955A2C0][00000632D95C7800 50] Android_Mali_G710_Vulkan, [00000632D9558180][00000632D95CA000 50] Android_Xclipse_920, [00000632D955AB80][00000632D95CC800 50] Android_Xclipse_920_Vulkan, [00000632D9555240][00000632D95B2800 50] Android_Vulkan_SM5, [00000632D955A480][00000632D95D0000 50] Android_PowerVR_G6xxx, [00000632D955BD00][00000632D95D5000 50] Android_PowerVR_GT7xxx, [00000632D955A100][00000632D95D7800 50] Android_PowerVR_GE8xxx, [00000632D9554B40][00000632D95DA000 50] Android_PowerVR_GM9xxx, [00000632D9556580][00000632D95DC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000632D9557C40][00000632D95C2800 50] Android_TegraK1, [00000632D955A800][00000632D95E0000 50] Android_Unknown_Vulkan, [00000632D955B600][00000632D95E5000 50] Oculus_Quest, [00000632D955C5C0][00000632D95E7800 50] Oculus_Quest2, [00000632D955BB40][00000632D95EA000 50] HoloLens, 
+[2023.12.19-11.30.01:697][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.12.19-11.30.01:709][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.12.19-11.30.01:841][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.12.19-11.30.02:104][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.19-11.30.02:104][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.19-11.30.02:104][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.19-11.30.02:104][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.19-11.30.02:105][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.19-11.30.02:161][  0]LogNetVersion: Study_C 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 854126533)
+[2023.12.19-11.30.02:758][  0]LogSlate: Border
+[2023.12.19-11.30.02:758][  0]LogSlate: BreadcrumbButton
+[2023.12.19-11.30.02:758][  0]LogSlate: Default
+[2023.12.19-11.30.02:758][  0]LogSlate: Icons.Save
+[2023.12.19-11.30.02:758][  0]LogSlate: Icons.Toolbar.Settings
+[2023.12.19-11.30.02:758][  0]LogSlate: ListView
+[2023.12.19-11.30.02:758][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.12.19-11.30.02:758][  0]LogSlate: SoftwareCursor_Grab
+[2023.12.19-11.30.02:758][  0]LogSlate: TableView.DarkRow
+[2023.12.19-11.30.02:758][  0]LogSlate: TableView.Row
+[2023.12.19-11.30.02:758][  0]LogSlate: TreeView
+[2023.12.19-11.30.03:557][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.03:702][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.03:702][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.04:027][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.12.19-11.30.04:029][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.12.19-11.30.04:029][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.19-11.30.05:217][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 96DD29B04D666C01B65924A4C906FA91 | Instance: F90963174694E8213DA3738B3FFFD33C (DESKTOP-3OSOGEP-4588).
+[2023.12.19-11.30.05:368][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.19-11.30.05:383][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.19-11.30.05:523][  0]LogPython: Using Python 3.9.7
+[2023.12.19-11.30.06:855][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD' のロードに失敗しました: ファイルが見つかりません
+[2023.12.19-11.30.06:855][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD'
+[2023.12.19-11.30.06:880][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals' のロードに失敗しました: ファイルが見つかりません
+[2023.12.19-11.30.06:880][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals'
+[2023.12.19-11.30.06:880][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA' のロードに失敗しました: ファイルが見つかりません
+[2023.12.19-11.30.06:880][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA'
+[2023.12.19-11.30.06:880][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile' のロードに失敗しました: ファイルが見つかりません
+[2023.12.19-11.30.06:880][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile'
+[2023.12.19-11.30.06:886][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_ChestLogo.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N' のロードに失敗しました: ファイルが見つかりません
+[2023.12.19-11.30.06:886][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N'
+[2023.12.19-11.30.06:935][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: E0C434FFBA183A5CEFF14C2F95493DCAAD813C4B), compiling. 
+[2023.12.19-11.30.06:939][  0]LogMaterial: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.12.19-11.30.06:944][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 904998E572DA08358725591F3BBA198F63811613), compiling. 
+[2023.12.19-11.30.06:945][  0]LogMaterial: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_ChestLogo.uasset: Failed to compile Material Instance with Base M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function ML_Plastic_Shiny_Beige_LOGO: (Node TextureSample) Texture Sample> Missing input texture
+	Function ML_Plastic_Shiny_Beige_LOGO: (Node MakeMaterialAttributes) Error on property OpacityMask
+
+[2023.12.19-11.30.06:981][  0]LogSkeletalMesh: Display: スケルタルメッシュの準備ができるのを待ってます。0/1 (SK_Mannequin)…
+[2023.12.19-11.30.06:989][  0]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.19-11.30.07:055][  0]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.19-11.30.07:063][  0]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.19-11.30.07:704][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.07:712][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.07:730][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.07:742][  0]LogUProjectInfo: Found projects:
+[2023.12.19-11.30.07:905][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.19-11.30.07:946][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.19-11.30.07:946][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.19-11.30.08:274][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.19-11.30.08:298][  0]LogCollectionManager: Loaded 0 collections in 0.003714 seconds
+[2023.12.19-11.30.08:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Collections/' took 0.00s
+[2023.12.19-11.30.08:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Developers/reiji/Collections/' took 0.00s
+[2023.12.19-11.30.08:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Collections/' took 0.00s
+[2023.12.19-11.30.08:859][  0]LogEngine: Initializing Engine...
+[2023.12.19-11.30.08:881][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.12.19-11.30.08:885][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.12.19-11.30.09:403][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.19-11.30.09:406][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.19-11.30.09:430][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-11.30.09:485][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.19-11.30.09:492][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.19-11.30.09:518][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.19-11.30.09:524][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.19-11.30.09:524][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.12.19-11.30.09:526][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.19-11.30.09:526][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.19-11.30.09:527][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.19-11.30.09:527][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-11.30.09:528][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-11.30.09:528][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-11.30.09:528][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-11.30.09:542][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-11.30.10:617][  0]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Realtek(R) Audio)
+[2023.12.19-11.30.10:619][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-11.30.10:660][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-11.30.10:660][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-11.30.10:668][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.12.19-11.30.10:669][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.19-11.30.10:673][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.19-11.30.10:673][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.12.19-11.30.10:673][  0]LogInit: FAudioDevice initialized.
+[2023.12.19-11.30.10:673][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.19-11.30.10:675][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.19-11.30.10:675][  0]LogInit: Texture streaming: Enabled
+[2023.12.19-11.30.10:771][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.12.19-11.30.10:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.19-11.30.10:829][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.12.19-11.30.10:910][  0]LogInit: Transaction tracking system initialized
+[2023.12.19-11.30.11:071][  0]BlueprintLog: New page: エディタの読み込み
+[2023.12.19-11.30.11:478][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2023.12.19-11.30.11:568][  0]TimingProfiler: Initialize
+[2023.12.19-11.30.11:569][  0]TimingProfiler: OnSessionChanged
+[2023.12.19-11.30.11:569][  0]LoadingProfiler: Initialize
+[2023.12.19-11.30.11:570][  0]LoadingProfiler: OnSessionChanged
+[2023.12.19-11.30.11:571][  0]NetworkingProfiler: Initialize
+[2023.12.19-11.30.11:573][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.19-11.30.11:573][  0]MemoryProfiler: Initialize
+[2023.12.19-11.30.11:573][  0]MemoryProfiler: OnSessionChanged
+[2023.12.19-11.30.13:080][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/' took 0.01s
+[2023.12.19-11.30.13:080][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.12.19-11.30.13:173][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.19-11.30.13:180][  0]SourceControl: ソースコントロールは無効です
+[2023.12.19-11.30.13:181][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.568
+[2023.12.19-11.30.13:182][  0]Cmd: MAP LOAD FILE="../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Level/Test_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.19-11.30.13:183][  0]LightingResults: New page: ライティングのビルド
+[2023.12.19-11.30.13:198][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-11.30.13:200][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-11.30.13:201][  0]MapCheck: New page: マップをチェック
+[2023.12.19-11.30.13:201][  0]LightingResults: New page: <何も選択されていません>
+[2023.12.19-11.30.13:221][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-11.30.13:235][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.19-11.30.13:366][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test_Level'.
+[2023.12.19-11.30.13:367][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.19-11.30.13:367][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-11.30.13:367][  0]LogAIModule: Creating AISystem for world Test_Level
+[2023.12.19-11.30.13:389][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.19-11.30.13:400][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.12.19-11.30.13:403][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.19-11.30.13:410][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 7.421ミリ秒かかりました。
+[2023.12.19-11.30.13:410][  0]LogFileHelpers: Loading map 'Test_Level' took 0.229
+[2023.12.19-11.30.13:457][  0]LogUnrealEdMisc: Total Editor Startup Time, took 28.845
+[2023.12.19-11.30.13:457][  0]LogShaderCompilers: Display: ================================================
+[2023.12.19-11.30.13:457][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.19-11.30.13:457][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.19-11.30.13:458][  0]LogShaderCompilers: Display: ================================================
+[2023.12.19-11.30.13:695][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-11.30.13:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-11.30.13:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-11.30.13:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-11.30.13:795][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:795][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:804][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:804][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:813][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:813][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:821][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:821][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:837][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:837][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:846][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:846][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:854][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:854][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:863][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:863][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:871][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:871][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:878][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.12.19-11.30.13:878][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.19-11.30.13:879][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.12.19-11.30.14:412][  0]LogSlate: Took 0.006354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.19-11.30.14:419][  0]LogSlate: Took 0.006926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2023.12.19-11.30.14:431][  0]LogSlate: Took 0.007477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2023.12.19-11.30.14:436][  0]LogSlate: Took 0.005539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.19-11.30.14:443][  0]LogSlate: Took 0.005763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.19-11.30.14:449][  0]LogSlate: Took 0.005462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.19-11.30.14:456][  0]LogSlate: Took 0.006297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.19-11.30.14:463][  0]LogSlate: Took 0.006337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2023.12.19-11.30.14:471][  0]LogSlate: Took 0.007108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2023.12.19-11.30.14:476][  0]LogSlate: Took 0.005792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2023.12.19-11.30.14:494][  0]LogViewport: Scene viewport resized to 1419x436, mode Windowed.
+[2023.12.19-11.30.15:412][  0]LogStall: Startup...
+[2023.12.19-11.30.15:416][  0]LogStall: Startup complete.
+[2023.12.19-11.30.15:436][  0]LogLoad: (Engine Initialization) Total time: 30.82 seconds
+[2023.12.19-11.30.15:436][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.19-11.30.15:560][  0]LogAssetRegistry: Asset discovery search completed in 14.5022 seconds
+[2023.12.19-11.30.15:597][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.12.19-11.30.15:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.12.19-11.30.16:174][  2]LogSlate: Took 0.006377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.19-11.30.16:504][  3]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.19-11.31.54:832][906]LogDerivedDataCache: C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.551 and deleted 0 file(s) with total size 0 MiB.
+[2023.12.19-11.39.18:610][747]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\reiji\Downloads\SM_Turret_Barrel.fbx)
+[2023.12.19-11.39.18:641][747]LogFbx: Loading FBX Scene from C:\Users\reiji\Downloads\SM_Turret_Barrel.fbx
+[2023.12.19-11.39.18:686][747]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.19-11.39.23:879][747]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2023.12.19-11.39.23:918][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.12.19-11.39.23:920][747]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.12.19-11.39.24:085][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.19-11.39.24:088][747]FBXImport: インポートはキャンセルされました。 
+[2023.12.19-11.39.24:091][747]LogAssetTools: The import task was canceled.
+[2023.12.19-11.40.22:980][571]AssetReimport: New page: 未処理のソースコンテンツ変更 5:40:22
+[2023.12.19-11.40.22:996][571]LogSlate: Took 0.005919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.19-11.40.23:049][572]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret.fbx)
+[2023.12.19-11.40.23:079][572]LogFbx: Loading FBX Scene from C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret.fbx
+[2023.12.19-11.40.23:283][572]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.19-11.40.23:307][572]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2023.12.19-11.40.25:377][572]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2023.12.19-11.40.25:712][572]LogStaticMesh: Built static mesh [0.07s] /Game/Mesh/SM_Turret_Muzzle_Frame.SM_Turret_Muzzle_Frame
+[2023.12.19-11.40.26:656][572]LogStaticMesh: Built static mesh [0.23s] /Game/Mesh/SM_Turret_Muzzle_Back.SM_Turret_Muzzle_Back
+[2023.12.19-11.40.27:941][572]LogStaticMesh: Built static mesh [0.36s] /Game/Mesh/SM_Turret_Muzzle_Base_01.SM_Turret_Muzzle_Base_01
+[2023.12.19-11.40.28:086][572]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/SM_Turret_Muzzle_Base_02.SM_Turret_Muzzle_Base_02
+[2023.12.19-11.40.29:023][572]LogStaticMesh: Built static mesh [0.25s] /Game/Mesh/SM_Turret_Jack.SM_Turret_Jack
+[2023.12.19-11.40.29:420][572]LogStaticMesh: Built static mesh [0.09s] /Game/Mesh/SM_Turret_Rod.SM_Turret_Rod
+[2023.12.19-11.40.29:829][572]LogStaticMesh: Built static mesh [0.10s] /Game/Mesh/SM_Turret_Rod_Cap.SM_Turret_Rod_Cap
+[2023.12.19-11.40.29:879][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Wood_Axle.SM_Turret_Wood_Axle
+[2023.12.19-11.40.29:895][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_01.SM_Turret_Hexa_Nut_L_01
+[2023.12.19-11.40.29:911][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_02.SM_Turret_Hexa_Nut_L_02
+[2023.12.19-11.40.29:926][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_03.SM_Turret_Hexa_Nut_L_03
+[2023.12.19-11.40.29:941][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_04.SM_Turret_Hexa_Nut_L_04
+[2023.12.19-11.40.30:017][572]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/SM_Turret_Hexa_Nut_L_05.SM_Turret_Hexa_Nut_L_05
+[2023.12.19-11.40.30:036][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_06.SM_Turret_Hexa_Nut_L_06
+[2023.12.19-11.40.30:048][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_S_01.SM_Turret_Hexa_Nut_S_01
+[2023.12.19-11.40.30:069][572]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/SM_Turret_Hexa_Nut_S_02.SM_Turret_Hexa_Nut_S_02
+[2023.12.19-11.40.30:120][572]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/SM_Turret_Muzzle_Base_Joint.SM_Turret_Muzzle_Base_Joint
+[2023.12.19-11.40.31:144][572]LogStaticMesh: Built static mesh [0.25s] /Game/Mesh/SM_Turret_Wheel02.SM_Turret_Wheel02
+[2023.12.19-11.40.32:064][572]LogStaticMesh: Built static mesh [0.22s] /Game/Mesh/SM_Turret_Wheel01.SM_Turret_Wheel01
+[2023.12.19-11.40.32:148][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_012.SM_Turret_Hexa_Nut_L_012
+[2023.12.19-11.40.32:165][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_023.SM_Turret_Hexa_Nut_L_023
+[2023.12.19-11.40.32:181][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_034.SM_Turret_Hexa_Nut_L_034
+[2023.12.19-11.40.32:197][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_045.SM_Turret_Hexa_Nut_L_045
+[2023.12.19-11.40.32:276][572]LogStaticMesh: Built static mesh [0.02s] /Game/Mesh/SM_Turret_Hexa_Nut_L_056.SM_Turret_Hexa_Nut_L_056
+[2023.12.19-11.40.32:296][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_L_067.SM_Turret_Hexa_Nut_L_067
+[2023.12.19-11.40.32:309][572]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/SM_Turret_Hexa_Nut_S_018.SM_Turret_Hexa_Nut_S_018
+[2023.12.19-11.40.32:330][572]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/SM_Turret_Hexa_Nut_S_029.SM_Turret_Hexa_Nut_S_029
+[2023.12.19-11.40.32:383][572]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/SM_Turret_Muzzle_Base_Joint10.SM_Turret_Muzzle_Base_Joint10
+[2023.12.19-11.40.33:385][572]LogStaticMesh: Built static mesh [0.25s] /Game/Mesh/SM_Turret_Wheel0211.SM_Turret_Wheel0211
+[2023.12.19-11.40.34:354][572]LogStaticMesh: Built static mesh [0.24s] /Game/Mesh/SM_Turret_Wheel0112.SM_Turret_Wheel0112
+[2023.12.19-11.40.34:523][572]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/SM_Turret_Muzzle_Plate.SM_Turret_Muzzle_Plate
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut」の名前が「Hexa_Nut1」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_01」の名前が「Hexa_Nut_L_012」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_02」の名前が「Hexa_Nut_L_023」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_03」の名前が「Hexa_Nut_L_034」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_04」の名前が「Hexa_Nut_L_045」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_05」の名前が「Hexa_Nut_L_056」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_06」の名前が「Hexa_Nut_L_067」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_S_01」の名前が「Hexa_Nut_S_018」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_S_02」の名前が「Hexa_Nut_S_029」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Muzzle_Base_Joint」の名前が「Muzzle_Base_Joint10」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Wheel02」の名前が「Wheel0211」に変更されました 
+[2023.12.19-11.40.34:992][572]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Wheel01」の名前が「Wheel0112」に変更されました 
+[2023.12.19-11.40.35:037][573]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret_Barrel.fbx)
+[2023.12.19-11.40.35:051][573]LogFbx: Loading FBX Scene from C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret_Barrel.fbx
+[2023.12.19-11.40.35:100][573]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.19-11.40.37:839][573]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2023.12.19-11.40.38:235][573]LogStaticMesh: Built static mesh [0.07s] /Game/Mesh/SM_Turret_Barrel_Handle.SM_Turret_Barrel_Handle
+[2023.12.19-11.40.38:436][573]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/SM_Turret_Barrel_Barrel4.SM_Turret_Barrel_Barrel4
+[2023.12.19-11.40.38:631][573]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/SM_Turret_Barrel_Barrel5.SM_Turret_Barrel_Barrel5
+[2023.12.19-11.40.38:823][573]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/SM_Turret_Barrel_Barrel6.SM_Turret_Barrel_Barrel6
+[2023.12.19-11.40.39:020][573]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/SM_Turret_Barrel_Barrel7.SM_Turret_Barrel_Barrel7
+[2023.12.19-11.40.39:217][573]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/SM_Turret_Barrel_Barrel8.SM_Turret_Barrel_Barrel8
+[2023.12.19-11.40.39:416][573]LogStaticMesh: Built static mesh [0.05s] /Game/Mesh/SM_Turret_Barrel_Barrel9.SM_Turret_Barrel_Barrel9
+[2023.12.19-11.40.39:620][573]LogStaticMesh: Built static mesh [0.06s] /Game/Mesh/SM_Turret_Barrel_Barrel10.SM_Turret_Barrel_Barrel10
+[2023.12.19-11.40.39:686][573]LogStaticMesh: Built static mesh [0.01s] /Game/Mesh/SM_Turret_Barrel_Barrel11.SM_Turret_Barrel_Barrel11
+[2023.12.19-11.40.39:983][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.19-11.40.43:004][733]AssetReimport: 新規アセット/Game/Mesh/SM_Turretをインポート。
+[2023.12.19-11.40.43:004][733]AssetReimport: 新規アセット/Game/Mesh/SM_Turret_Barrelをインポート。
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: ================================================
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 1 distinct outputs (50.00%)
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.12.19-11.40.44:934][825]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Job execution time: average 2.16 s, max 2.28 s
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Job life time (pending + execution): average 2.25 s, max 2.35
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.35 s
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.70 sec, max 0.70 sec, min 0.69 sec)
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.70 sec, max 0.70 sec, min 0.69 sec)
+[2023.12.19-11.40.44:935][825]LogShaderCompilers: Display: ================================================
+[2023.12.19-11.40.46:092][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.12.19-11.40.46:095][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Test_Level' took 0.010
+[2023.12.19-11.40.46:097][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel10] ([1] browsable assets)...
+[2023.12.19-11.40.46:109][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel10.SM_Turret_Barrel_Barrel10]
+[2023.12.19-11.40.46:109][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel10]
+[2023.12.19-11.40.46:115][864]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003843 seconds
+[2023.12.19-11.40.46:143][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel10_Auto1
+[2023.12.19-11.40.46:143][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel10_Auto13EB193354B95CBBCE41603B9B44F0DF8.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel10_Auto1.uasset'
+[2023.12.19-11.40.46:144][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Frame] ([1] browsable assets)...
+[2023.12.19-11.40.46:153][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Frame.SM_Turret_Muzzle_Frame]
+[2023.12.19-11.40.46:153][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Frame]
+[2023.12.19-11.40.46:170][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Frame_Auto1
+[2023.12.19-11.40.46:170][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Frame_Auto1E69BFB1A4A4E5357D36A698063819AA3.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Frame_Auto1.uasset'
+[2023.12.19-11.40.46:171][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Back] ([1] browsable assets)...
+[2023.12.19-11.40.46:179][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Back.SM_Turret_Muzzle_Back]
+[2023.12.19-11.40.46:179][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Back]
+[2023.12.19-11.40.46:241][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Back_Auto1
+[2023.12.19-11.40.46:241][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Back_Auto15D85FE4D4D0F6281B13A079F99933C25.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Back_Auto1.uasset'
+[2023.12.19-11.40.46:243][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Base_01] ([1] browsable assets)...
+[2023.12.19-11.40.46:251][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Base_01.SM_Turret_Muzzle_Base_01]
+[2023.12.19-11.40.46:251][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Base_01]
+[2023.12.19-11.40.46:335][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_01_Auto1
+[2023.12.19-11.40.46:335][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Base_01_Auto1AEB1576B4A09674DF8AAEA992F8C8281.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_01_Auto1.uasset'
+[2023.12.19-11.40.46:336][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Base_02] ([1] browsable assets)...
+[2023.12.19-11.40.46:344][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Base_02.SM_Turret_Muzzle_Base_02]
+[2023.12.19-11.40.46:344][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Base_02]
+[2023.12.19-11.40.46:350][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_02_Auto1
+[2023.12.19-11.40.46:350][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Base_02_Auto14BA7B2714E74852DBE47448C1EE5D4AE.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_02_Auto1.uasset'
+[2023.12.19-11.40.46:351][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Jack] ([1] browsable assets)...
+[2023.12.19-11.40.46:359][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Jack.SM_Turret_Jack]
+[2023.12.19-11.40.46:359][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Jack]
+[2023.12.19-11.40.46:423][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Jack_Auto1
+[2023.12.19-11.40.46:423][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Jack_Auto103BFFD294FFADD23C60B08A676229EE8.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Jack_Auto1.uasset'
+[2023.12.19-11.40.46:423][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Rod] ([1] browsable assets)...
+[2023.12.19-11.40.46:432][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Rod.SM_Turret_Rod]
+[2023.12.19-11.40.46:432][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Rod]
+[2023.12.19-11.40.46:432][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/SM_Turret_Rod" FILE="../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Rod_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.19-11.40.46:457][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Rod_Auto1
+[2023.12.19-11.40.46:457][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Rod_Auto1DF7E9FC343DFB1077124838CB755FCE4.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Rod_Auto1.uasset'
+[2023.12.19-11.40.46:458][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Rod_Cap] ([1] browsable assets)...
+[2023.12.19-11.40.46:466][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Rod_Cap.SM_Turret_Rod_Cap]
+[2023.12.19-11.40.46:466][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Rod_Cap]
+[2023.12.19-11.40.46:494][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Rod_Cap_Auto1
+[2023.12.19-11.40.46:494][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Rod_Cap_Auto127AE687342E915B2FAFDD69D7CFD5E73.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Rod_Cap_Auto1.uasset'
+[2023.12.19-11.40.46:495][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Wood_Axle] ([1] browsable assets)...
+[2023.12.19-11.40.46:504][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Wood_Axle.SM_Turret_Wood_Axle]
+[2023.12.19-11.40.46:504][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Wood_Axle]
+[2023.12.19-11.40.46:507][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Wood_Axle_Auto1
+[2023.12.19-11.40.46:507][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Wood_Axle_Auto1628EF3764519B390188D8DA06813348D.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Wood_Axle_Auto1.uasset'
+[2023.12.19-11.40.46:508][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_01] ([1] browsable assets)...
+[2023.12.19-11.40.46:515][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_01.SM_Turret_Hexa_Nut_L_01]
+[2023.12.19-11.40.46:515][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_01]
+[2023.12.19-11.40.46:518][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_01_Auto1
+[2023.12.19-11.40.46:518][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_01_Auto10B273A26499FCDDC312A8B929F67E615.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_01_Auto1.uasset'
+[2023.12.19-11.40.46:519][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_02] ([1] browsable assets)...
+[2023.12.19-11.40.46:526][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_02.SM_Turret_Hexa_Nut_L_02]
+[2023.12.19-11.40.46:526][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_02]
+[2023.12.19-11.40.46:529][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_02_Auto1
+[2023.12.19-11.40.46:529][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_02_Auto17BF888034D4888F56186E5A1FA464AC8.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_02_Auto1.uasset'
+[2023.12.19-11.40.46:529][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_03] ([1] browsable assets)...
+[2023.12.19-11.40.46:537][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_03.SM_Turret_Hexa_Nut_L_03]
+[2023.12.19-11.40.46:537][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_03]
+[2023.12.19-11.40.46:541][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_03_Auto1
+[2023.12.19-11.40.46:541][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_03_Auto1AB0A6C33469B95C60B7D7BBDCD97C1A6.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_03_Auto1.uasset'
+[2023.12.19-11.40.46:542][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_04] ([1] browsable assets)...
+[2023.12.19-11.40.46:550][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_04.SM_Turret_Hexa_Nut_L_04]
+[2023.12.19-11.40.46:550][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_04]
+[2023.12.19-11.40.46:553][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_04_Auto1
+[2023.12.19-11.40.46:553][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_04_Auto12058E95142B961B76D6D2B8952F97FAB.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_04_Auto1.uasset'
+[2023.12.19-11.40.46:554][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_05] ([1] browsable assets)...
+[2023.12.19-11.40.46:562][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_05.SM_Turret_Hexa_Nut_L_05]
+[2023.12.19-11.40.46:562][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_05]
+[2023.12.19-11.40.46:569][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_05_Auto1
+[2023.12.19-11.40.46:569][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_05_Auto1CC8E82BC490AC34846BC8192A2679A99.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_05_Auto1.uasset'
+[2023.12.19-11.40.46:570][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_06] ([1] browsable assets)...
+[2023.12.19-11.40.46:578][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_06.SM_Turret_Hexa_Nut_L_06]
+[2023.12.19-11.40.46:578][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_06]
+[2023.12.19-11.40.46:581][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_06_Auto1
+[2023.12.19-11.40.46:581][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_06_Auto1AD148FAD446E4BED3979B89F7DAA67A5.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_06_Auto1.uasset'
+[2023.12.19-11.40.46:582][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_S_01] ([1] browsable assets)...
+[2023.12.19-11.40.46:589][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_S_01.SM_Turret_Hexa_Nut_S_01]
+[2023.12.19-11.40.46:589][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_S_01]
+[2023.12.19-11.40.46:592][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_01_Auto1
+[2023.12.19-11.40.46:592][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_S_01_Auto17530AC424CA1974E267643900432E3C7.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_01_Auto1.uasset'
+[2023.12.19-11.40.46:592][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_S_02] ([1] browsable assets)...
+[2023.12.19-11.40.46:600][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_S_02.SM_Turret_Hexa_Nut_S_02]
+[2023.12.19-11.40.46:600][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_S_02]
+[2023.12.19-11.40.46:603][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_02_Auto1
+[2023.12.19-11.40.46:603][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_S_02_Auto13F07E2D34BCA9BE89B2C508A7D939842.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_02_Auto1.uasset'
+[2023.12.19-11.40.46:603][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Base_Joint] ([1] browsable assets)...
+[2023.12.19-11.40.46:611][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Base_Joint.SM_Turret_Muzzle_Base_Joint]
+[2023.12.19-11.40.46:611][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Base_Joint]
+[2023.12.19-11.40.46:617][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_Joint_Auto1
+[2023.12.19-11.40.46:617][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Base_Joint_AutoBEDCFDD947921455426C1A9431C58733.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_Joint_Auto1.uasset'
+[2023.12.19-11.40.46:618][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Wheel02] ([1] browsable assets)...
+[2023.12.19-11.40.46:626][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Wheel02.SM_Turret_Wheel02]
+[2023.12.19-11.40.46:626][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Wheel02]
+[2023.12.19-11.40.46:694][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Wheel02_Auto1
+[2023.12.19-11.40.46:694][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Wheel02_Auto145DAA7E9443B24E58CD355927B84007F.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Wheel02_Auto1.uasset'
+[2023.12.19-11.40.46:695][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Wheel01] ([1] browsable assets)...
+[2023.12.19-11.40.46:703][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Wheel01.SM_Turret_Wheel01]
+[2023.12.19-11.40.46:703][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Wheel01]
+[2023.12.19-11.40.46:764][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Wheel01_Auto1
+[2023.12.19-11.40.46:764][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Wheel01_Auto1E85F33924682F8735233D1A0197010E8.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Wheel01_Auto1.uasset'
+[2023.12.19-11.40.46:765][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_012] ([1] browsable assets)...
+[2023.12.19-11.40.46:774][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_012.SM_Turret_Hexa_Nut_L_012]
+[2023.12.19-11.40.46:774][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_012]
+[2023.12.19-11.40.46:777][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_012_Auto1
+[2023.12.19-11.40.46:777][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_012_Auto1A7B693F844850F8DAD5F568B8BDF1D72.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_012_Auto1.uasset'
+[2023.12.19-11.40.46:778][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_023] ([1] browsable assets)...
+[2023.12.19-11.40.46:785][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_023.SM_Turret_Hexa_Nut_L_023]
+[2023.12.19-11.40.46:785][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_023]
+[2023.12.19-11.40.46:788][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_023_Auto1
+[2023.12.19-11.40.46:788][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_023_Auto1DA98E5924F9FC486E2F3258C248BE217.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_023_Auto1.uasset'
+[2023.12.19-11.40.46:789][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_034] ([1] browsable assets)...
+[2023.12.19-11.40.46:797][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_034.SM_Turret_Hexa_Nut_L_034]
+[2023.12.19-11.40.46:797][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_034]
+[2023.12.19-11.40.46:800][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_034_Auto1
+[2023.12.19-11.40.46:800][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_034_Auto1986ED62A440F2036B272AEB0EFB06071.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_034_Auto1.uasset'
+[2023.12.19-11.40.46:800][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_045] ([1] browsable assets)...
+[2023.12.19-11.40.46:808][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_045.SM_Turret_Hexa_Nut_L_045]
+[2023.12.19-11.40.46:808][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_045]
+[2023.12.19-11.40.46:810][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_045_Auto1
+[2023.12.19-11.40.46:810][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_045_Auto1DECCC51846395AF915B47A9F81BA9741.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_045_Auto1.uasset'
+[2023.12.19-11.40.46:811][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_056] ([1] browsable assets)...
+[2023.12.19-11.40.46:818][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_056.SM_Turret_Hexa_Nut_L_056]
+[2023.12.19-11.40.46:818][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_056]
+[2023.12.19-11.40.46:825][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_056_Auto1
+[2023.12.19-11.40.46:825][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_056_Auto1B259F8274274B878ECA820BE7DFD1FF4.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_056_Auto1.uasset'
+[2023.12.19-11.40.46:826][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_L_067] ([1] browsable assets)...
+[2023.12.19-11.40.46:833][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_L_067.SM_Turret_Hexa_Nut_L_067]
+[2023.12.19-11.40.46:833][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_L_067]
+[2023.12.19-11.40.46:836][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_067_Auto1
+[2023.12.19-11.40.46:836][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_L_067_Auto1B75D1034428B7BBA9D083FB982FA1E03.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_L_067_Auto1.uasset'
+[2023.12.19-11.40.46:837][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_S_018] ([1] browsable assets)...
+[2023.12.19-11.40.46:843][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_S_018.SM_Turret_Hexa_Nut_S_018]
+[2023.12.19-11.40.46:843][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_S_018]
+[2023.12.19-11.40.46:846][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_018_Auto1
+[2023.12.19-11.40.46:846][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_S_018_Auto1B87984FB4DAD1C6C76673A8231F67581.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_018_Auto1.uasset'
+[2023.12.19-11.40.46:847][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Hexa_Nut_S_029] ([1] browsable assets)...
+[2023.12.19-11.40.46:854][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Hexa_Nut_S_029.SM_Turret_Hexa_Nut_S_029]
+[2023.12.19-11.40.46:854][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Hexa_Nut_S_029]
+[2023.12.19-11.40.46:857][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_029_Auto1
+[2023.12.19-11.40.46:857][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Hexa_Nut_S_029_Auto1E7DB668248F685BCBF7FE890F4FEF8B8.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Hexa_Nut_S_029_Auto1.uasset'
+[2023.12.19-11.40.46:858][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Base_Joint10] ([1] browsable assets)...
+[2023.12.19-11.40.46:865][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Base_Joint10.SM_Turret_Muzzle_Base_Joint10]
+[2023.12.19-11.40.46:865][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Base_Joint10]
+[2023.12.19-11.40.46:870][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_Joint10_Auto1
+[2023.12.19-11.40.46:870][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Base_Joint10_Au81BBF842416DF7D60E7F71AF34E3B7A0.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Base_Joint10_Auto1.uasset'
+[2023.12.19-11.40.46:871][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Wheel0211] ([1] browsable assets)...
+[2023.12.19-11.40.46:878][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Wheel0211.SM_Turret_Wheel0211]
+[2023.12.19-11.40.46:878][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Wheel0211]
+[2023.12.19-11.40.46:945][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Wheel0211_Auto1
+[2023.12.19-11.40.46:945][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Wheel0211_Auto1C3F1D58B441151482FC57480B6F7BE34.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Wheel0211_Auto1.uasset'
+[2023.12.19-11.40.46:946][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Wheel0112] ([1] browsable assets)...
+[2023.12.19-11.40.46:953][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Wheel0112.SM_Turret_Wheel0112]
+[2023.12.19-11.40.46:953][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Wheel0112]
+[2023.12.19-11.40.47:013][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Wheel0112_Auto1
+[2023.12.19-11.40.47:013][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Wheel0112_Auto1DDBCB879441732A445663CA1979E5CEE.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Wheel0112_Auto1.uasset'
+[2023.12.19-11.40.47:014][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Muzzle_Plate] ([1] browsable assets)...
+[2023.12.19-11.40.47:021][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Muzzle_Plate.SM_Turret_Muzzle_Plate]
+[2023.12.19-11.40.47:021][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Muzzle_Plate]
+[2023.12.19-11.40.47:030][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Muzzle_Plate_Auto1
+[2023.12.19-11.40.47:031][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Muzzle_Plate_Auto19B8D6FB4407A203D2831D58AC9407A69.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Muzzle_Plate_Auto1.uasset'
+[2023.12.19-11.40.47:031][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel11] ([1] browsable assets)...
+[2023.12.19-11.40.47:039][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel11.SM_Turret_Barrel_Barrel11]
+[2023.12.19-11.40.47:039][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel11]
+[2023.12.19-11.40.47:044][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel11_Auto1
+[2023.12.19-11.40.47:044][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel11_Auto11D1DF6F641F4647FA7172EB95E9F4B34.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel11_Auto1.uasset'
+[2023.12.19-11.40.47:045][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Handle] ([1] browsable assets)...
+[2023.12.19-11.40.47:053][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Handle.SM_Turret_Barrel_Handle]
+[2023.12.19-11.40.47:053][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Handle]
+[2023.12.19-11.40.47:073][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Handle_Auto1
+[2023.12.19-11.40.47:073][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Handle_Auto16C938E9A4C9A2672D6269E9CF11E24C4.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Handle_Auto1.uasset'
+[2023.12.19-11.40.47:074][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel4] ([1] browsable assets)...
+[2023.12.19-11.40.47:082][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel4.SM_Turret_Barrel_Barrel4]
+[2023.12.19-11.40.47:082][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel4]
+[2023.12.19-11.40.47:096][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel4_Auto1
+[2023.12.19-11.40.47:096][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel4_Auto1BA3958F14D96F3AEE5A823A9D8856F63.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel4_Auto1.uasset'
+[2023.12.19-11.40.47:097][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel5] ([1] browsable assets)...
+[2023.12.19-11.40.47:105][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel5.SM_Turret_Barrel_Barrel5]
+[2023.12.19-11.40.47:105][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel5]
+[2023.12.19-11.40.47:119][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel5_Auto1
+[2023.12.19-11.40.47:119][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel5_Auto15A5EED034CE957AA9263949CEF7EBEC8.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel5_Auto1.uasset'
+[2023.12.19-11.40.47:120][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel6] ([1] browsable assets)...
+[2023.12.19-11.40.47:127][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel6.SM_Turret_Barrel_Barrel6]
+[2023.12.19-11.40.47:127][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel6]
+[2023.12.19-11.40.47:141][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel6_Auto1
+[2023.12.19-11.40.47:142][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel6_Auto1FC447934480D0D3B9BE4A6A549010E4A.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel6_Auto1.uasset'
+[2023.12.19-11.40.47:142][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel7] ([1] browsable assets)...
+[2023.12.19-11.40.47:149][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel7.SM_Turret_Barrel_Barrel7]
+[2023.12.19-11.40.47:149][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel7]
+[2023.12.19-11.40.47:163][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel7_Auto1
+[2023.12.19-11.40.47:163][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel7_Auto13E70A24A4D8F737D8CB87896F0B31B9A.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel7_Auto1.uasset'
+[2023.12.19-11.40.47:164][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel8] ([1] browsable assets)...
+[2023.12.19-11.40.47:171][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel8.SM_Turret_Barrel_Barrel8]
+[2023.12.19-11.40.47:171][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel8]
+[2023.12.19-11.40.47:185][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel8_Auto1
+[2023.12.19-11.40.47:185][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel8_Auto19407078846FF1D0763AA978D52BE352A.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel8_Auto1.uasset'
+[2023.12.19-11.40.47:186][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/SM_Turret_Barrel_Barrel9] ([1] browsable assets)...
+[2023.12.19-11.40.47:194][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/SM_Turret_Barrel_Barrel9.SM_Turret_Barrel_Barrel9]
+[2023.12.19-11.40.47:194][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/SM_Turret_Barrel_Barrel9]
+[2023.12.19-11.40.47:207][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel9_Auto1
+[2023.12.19-11.40.47:208][864]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret_Barrel_Barrel9_Auto1BF17075E41528D49FEC394A319E5AF1F.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Autosaves/Game/Mesh/SM_Turret_Barrel_Barrel9_Auto1.uasset'
+[2023.12.19-11.40.47:208][864]LogFileHelpers: Auto-saving content packages took 1.113
+[2023.12.19-11.40.56:264][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.19-11.40.57:900][393]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.19-11.40.57:972][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.19-11.40.57:980][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.19-11.40.57:986][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.19-11.42.33:368][995]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Mesh\SM_Turret_Barrel.fbx)
+[2023.12.19-11.42.33:380][995]LogFbx: Loading FBX Scene from C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Mesh\SM_Turret_Barrel.fbx
+[2023.12.19-11.42.33:420][995]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.19-11.43.34:512][995]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2023.12.19-11.43.34:539][995]LogMaterial: Display: Missing cached shadermap for MI_Turret_Muzzle in PCD3D_SM5, Default, SM5 (DDC key hash: 4BD23873A7024BB6C0A165206DA50103FE1B6146), compiling. 
+[2023.12.19-11.43.34:546][995]LogFbx: Display: Triangulating static mesh Handle
+[2023.12.19-11.43.34:743][995]LogFbx: Display: Triangulating static mesh Barrel4
+[2023.12.19-11.43.34:852][995]LogFbx: Display: Triangulating static mesh Barrel5
+[2023.12.19-11.43.34:961][995]LogFbx: Display: Triangulating static mesh Barrel6
+[2023.12.19-11.43.35:068][995]LogFbx: Display: Triangulating static mesh Barrel7
+[2023.12.19-11.43.35:178][995]LogFbx: Display: Triangulating static mesh Barrel8
+[2023.12.19-11.43.35:285][995]LogFbx: Display: Triangulating static mesh Barrel9
+[2023.12.19-11.43.35:392][995]LogFbx: Display: Triangulating static mesh Barrel10
+[2023.12.19-11.43.35:496][995]LogFbx: Display: Triangulating static mesh Barrel11
+[2023.12.19-11.43.35:539][995]LogStaticMesh: Display: スタティックメッシュ SM_Turret_Barrel をビルド中...
+[2023.12.19-11.43.35:909][995]LogStaticMesh: Built static mesh [0.37s] /Game/Mesh/SM_Turret_Barrel.SM_Turret_Barrel
+[2023.12.19-11.43.36:052][995]LogStaticMesh: Display: スタティックメッシュ SM_Turret_Barrel をビルド中...
+[2023.12.19-11.43.36:052][995]LogStaticMesh: Display: スタティック メッシュの準備ができるのを待ってます。0/1 (/Game/Mesh/SM_Turret_Barrel)…
+[2023.12.19-11.43.36:452][995]LogStaticMesh: Built static mesh [0.37s] /Game/Mesh/SM_Turret_Barrel.SM_Turret_Barrel
+[2023.12.19-11.43.36:492][995]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Mesh\SM_Turret.fbx)
+[2023.12.19-11.43.36:526][995]LogFbx: Loading FBX Scene from C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Mesh\SM_Turret.fbx
+[2023.12.19-11.43.36:732][995]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.19-11.43.36:738][995]LogMaterial: Display: Missing cached shadermap for MI_Turret in PCD3D_SM5, Default, SM5 (DDC key hash: 4FB3300ADABFFC1ACC8DED6B78C3D6A4A46B6F1D), compiling. 
+[2023.12.19-11.43.36:743][995]LogFbx: Display: Triangulating static mesh Muzzle_Frame
+[2023.12.19-11.43.36:906][995]LogFbx: Display: Triangulating static mesh Muzzle_Back
+[2023.12.19-11.43.37:489][995]LogFbx: Display: Triangulating static mesh Muzzle_Base_01
+[2023.12.19-11.43.38:289][995]LogFbx: Display: Triangulating static mesh Muzzle_Base_02
+[2023.12.19-11.43.38:340][995]LogFbx: Display: Triangulating static mesh Jack
+[2023.12.19-11.43.39:002][995]LogFbx: Display: Triangulating static mesh Rod
+[2023.12.19-11.43.39:232][995]LogFbx: Display: Triangulating static mesh Rod_Cap
+[2023.12.19-11.43.39:486][995]LogFbx: Display: Triangulating static mesh Wood_Axle
+[2023.12.19-11.43.39:495][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_01
+[2023.12.19-11.43.39:498][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_02
+[2023.12.19-11.43.39:501][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_03
+[2023.12.19-11.43.39:504][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_04
+[2023.12.19-11.43.39:508][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_05
+[2023.12.19-11.43.39:550][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_06
+[2023.12.19-11.43.39:554][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_S_01
+[2023.12.19-11.43.39:555][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_S_02
+[2023.12.19-11.43.39:561][995]LogFbx: Display: Triangulating static mesh Muzzle_Base_Joint
+[2023.12.19-11.43.39:606][995]LogFbx: Display: Triangulating static mesh Wheel02
+[2023.12.19-11.43.40:241][995]LogFbx: Display: Triangulating static mesh Wheel01
+[2023.12.19-11.43.40:822][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_012
+[2023.12.19-11.43.40:825][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_023
+[2023.12.19-11.43.40:828][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_034
+[2023.12.19-11.43.40:831][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_045
+[2023.12.19-11.43.40:835][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_056
+[2023.12.19-11.43.40:878][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_L_067
+[2023.12.19-11.43.40:881][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_S_018
+[2023.12.19-11.43.40:883][995]LogFbx: Display: Triangulating static mesh Hexa_Nut_S_029
+[2023.12.19-11.43.40:889][995]LogFbx: Display: Triangulating static mesh Muzzle_Base_Joint10
+[2023.12.19-11.43.40:932][995]LogFbx: Display: Triangulating static mesh Wheel0211
+[2023.12.19-11.43.41:573][995]LogFbx: Display: Triangulating static mesh Wheel0112
+[2023.12.19-11.43.42:128][995]LogFbx: Display: Triangulating static mesh Muzzle_Plate
+[2023.12.19-11.43.42:505][995]LogStaticMesh: Display: スタティックメッシュ SM_Turret をビルド中...
+[2023.12.19-11.43.44:597][995]LogStaticMesh: Built static mesh [2.09s] /Game/Mesh/SM_Turret.SM_Turret
+[2023.12.19-11.43.45:336][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut」の名前が「Hexa_Nut1」に変更されました 
+[2023.12.19-11.43.45:336][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_01」の名前が「Hexa_Nut_L_012」に変更されました 
+[2023.12.19-11.43.45:336][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_02」の名前が「Hexa_Nut_L_023」に変更されました 
+[2023.12.19-11.43.45:336][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_03」の名前が「Hexa_Nut_L_034」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_04」の名前が「Hexa_Nut_L_045」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_05」の名前が「Hexa_Nut_L_056」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_L_06」の名前が「Hexa_Nut_L_067」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_S_01」の名前が「Hexa_Nut_S_018」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Hexa_Nut_S_02」の名前が「Hexa_Nut_S_029」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Muzzle_Base_Joint」の名前が「Muzzle_Base_Joint10」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Wheel02」の名前が「Wheel0211」に変更されました 
+[2023.12.19-11.43.45:337][995]FBXImport: FBX ファイルをロードしています:名前の競合が見つかりました。ノード「Wheel01」の名前が「Wheel0112」に変更されました 
+[2023.12.19-11.43.45:368][995]LogStaticMesh: Display: スタティックメッシュ SM_Turret をビルド中...
+[2023.12.19-11.43.45:368][995]LogStaticMesh: Display: スタティック メッシュの準備ができるのを待ってます。0/1 (/Game/Mesh/SM_Turret)…
+[2023.12.19-11.43.47:427][995]LogStaticMesh: Built static mesh [2.04s] /Game/Mesh/SM_Turret.SM_Turret
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: ================================================
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Total job queries 16, among them cache hits 8 (50.00%)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 3 distinct outputs (37.50%)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Job execution time: average 2.81 s, max 3.19 s
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 2.90 s, max 3.27
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.27 s
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Effective parallelization: 3.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.63 sec, max 1.63 sec, min 1.62 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.59 sec, max 1.61 sec, min 1.58 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.57 sec, max 1.57 sec, min 1.56 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.70 sec, max 0.70 sec, min 0.69 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.71% of total time (compiled    2 times, average 1.63 sec, max 1.63 sec, min 1.62 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.05% of total time (compiled    2 times, average 1.59 sec, max 1.61 sec, min 1.58 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                                 FLumenCardVS - 28.57% of total time (compiled    2 times, average 1.57 sec, max 1.57 sec, min 1.56 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.68% of total time (compiled    2 times, average 0.70 sec, max 0.70 sec, min 0.69 sec)
+[2023.12.19-11.43.47:932][  0]LogShaderCompilers: Display: ================================================
+[2023.12.19-11.44.14:656][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.19-11.44.17:688][598]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.19-11.46.06:528][124]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/SM_Turret.SM_Turret
+[2023.12.19-11.46.06:604][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-11.46.06:996][124]LogViewport: Scene viewport resized to 910x533, mode Windowed.
+[2023.12.19-11.46.18:331][788]LogViewport: Scene viewport resized to 907x556, mode Windowed.
+[2023.12.19-11.46.18:413][790]LogViewport: Scene viewport resized to 623x349, mode Windowed.
+[2023.12.19-11.46.18:446][791]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.12.19-11.46.18:936][820]LogSlate: Window 'SM_Turret' being destroyed
+[2023.12.19-11.46.27:950][356]LogStaticMesh: Display: スタティック メッシュの準備ができるのを待ってます。0/1 (/Game/Mesh/SM_Turret)…
+[2023.12.19-11.48.25:889][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/SM_Turret" FILE="../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret.uasset" SILENT=true
+[2023.12.19-11.48.26:424][363]LogSavePackage: Moving output files for package: /Game/Mesh/SM_Turret
+[2023.12.19-11.48.26:424][363]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_Turret635AFDE3479C0BEAFE55548DB80A04F1.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret.uasset'
+[2023.12.19-11.48.26:436][363]AssetCheck: New page: アセット保存：SM_Turret
+[2023.12.19-11.48.26:437][363]LogContentValidation: Display: StaticMesh /Game/Mesh/SM_Turret.SM_Turret を検証しています
+[2023.12.19-11.48.34:655][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/SM_Turret" FILE="../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret.uasset" SILENT=true
+[2023.12.19-11.48.35:150][850]LogSavePackage: Moving output files for package: /Game/Mesh/SM_Turret
+[2023.12.19-11.48.35:151][850]LogSavePackage: Moving '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/SM_TurretB6B0B06045F9E693CDD94D89F4833117.tmp' to '../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Mesh/SM_Turret.uasset'
+[2023.12.19-11.48.35:165][850]AssetCheck: New page: アセット保存：SM_Turret
+[2023.12.19-11.48.35:165][850]LogContentValidation: Display: StaticMesh /Game/Mesh/SM_Turret.SM_Turret を検証しています
+[2023.12.19-11.48.41:577][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.19-11.48.46:693][228]LogSlate: Window 'コンテンツを保存' being destroyed

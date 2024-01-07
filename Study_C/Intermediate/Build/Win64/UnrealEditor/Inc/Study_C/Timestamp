@@ -1,2 +1,13 @@
-D:\UE5_C++\UE5_C\UE5_C\Study_C\Source\Study_C\Public\Character\BallPlayer.h
-D:\UE5_C++\UE5_C\UE5_C\Study_C\Source\Study_C\Study_CGameModeBase.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Actor\Projectile.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Actor\Gun.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Manager\ProjectileManager.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\AI\AIController\SmallENemyController.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\AI\EnemyPawn\EnemyPawn.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Wepaon\Weapon.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Controller\PlayerCharacterController.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Pawn\PlayerPawn.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Component\MyFloatingPawnMovement.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\AnimInstance\MyAnimInstance.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\GameMode\PlayGameMode.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\AnimInstance\PlayerAnimInstance.h
+C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Study_CGameModeBase.h

@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\inc\\study_c\\myfloatingpawnmovement.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\study_ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\development\\study_c\\definitions.study_c.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\source\\study_c\\public\\component\\myfloatingpawnmovement.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\floatingpawnmovement.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\pathfollowingagentinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\navmovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\pawnmovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\floatingpawnmovement.generated.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\inc\\study_c\\myfloatingpawnmovement.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

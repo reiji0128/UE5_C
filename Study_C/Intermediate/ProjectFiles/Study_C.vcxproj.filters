@@ -23,6 +23,9 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Config\HoloLens">
       <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
     </Filter>
@@ -50,20 +53,146 @@
     <Filter Include="Source\Study_C\Private">
       <UniqueIdentifier>{19D2B31A-00B7-31F3-8FA9-FF8B6ECC774A}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source\Study_C\Private\Character">
-      <UniqueIdentifier>{8CD7BCC1-247D-3D6F-AEE9-31DBB37E8DF1}</UniqueIdentifier>
+    <Filter Include="Source\Study_C\Private\Actor">
+      <UniqueIdentifier>{D0CF368C-D03D-3956-9BD1-FD5B8E47B213}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Study_C\Private\Character\BallPlayer.cpp">
-      <Filter>Source\Study_C\Private\Character</Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Actor\Gun.cpp">
+      <Filter>Source\Study_C\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Study_C\Private\Actor\Projectile.cpp">
+      <Filter>Source\Study_C\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\AI">
+      <UniqueIdentifier>{C8AA4886-99BB-3E37-88AF-368B81F07319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Study_C\Private\AI\AIController">
+      <UniqueIdentifier>{C1B99259-564F-31A4-A103-B7864F28F79B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\AI\AIController\SmallENemyController.cpp">
+      <Filter>Source\Study_C\Private\AI\AIController</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\AI\EnemyPawn">
+      <UniqueIdentifier>{4517F2C1-CD97-3960-9925-AB8282293AB8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\AI\EnemyPawn\EnemyPawn.cpp">
+      <Filter>Source\Study_C\Private\AI\EnemyPawn</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\AnimInstance">
+      <UniqueIdentifier>{C95498E3-5EEF-362E-A88F-3190A793A37F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\AnimInstance\MyAnimInstance.cpp">
+      <Filter>Source\Study_C\Private\AnimInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Study_C\Private\AnimInstance\PlayerAnimInstance.cpp">
+      <Filter>Source\Study_C\Private\AnimInstance</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\Component">
+      <UniqueIdentifier>{F3D81C41-8578-308F-85C0-7CB24A9879FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Component\MyFloatingPawnMovement.cpp">
+      <Filter>Source\Study_C\Private\Component</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\Controller">
+      <UniqueIdentifier>{BB23880F-B2E0-3353-A30F-7286FB763C2A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Controller\PlayerCharacterController.cpp">
+      <Filter>Source\Study_C\Private\Controller</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\GameMode">
+      <UniqueIdentifier>{0701C33C-0E2F-3048-89EA-1082102E0448}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\GameMode\PlayGameMode.cpp">
+      <Filter>Source\Study_C\Private\GameMode</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\Manager">
+      <UniqueIdentifier>{CE7A4BD2-AD71-3E6A-A6BF-58DA7F3176FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Manager\ProjectileManager.cpp">
+      <Filter>Source\Study_C\Private\Manager</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\Pawn">
+      <UniqueIdentifier>{CD8566F0-743D-3342-AAB8-495CF9005E69}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Pawn\PlayerPawn.cpp">
+      <Filter>Source\Study_C\Private\Pawn</Filter>
+    </ClCompile>
+    <Filter Include="Source\Study_C\Private\Wepaon">
+      <UniqueIdentifier>{3A901262-6B5C-3B53-9EE7-420F15684D0F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Study_C\Private\Wepaon\Weapon.cpp">
+      <Filter>Source\Study_C\Private\Wepaon</Filter>
     </ClCompile>
     <Filter Include="Source\Study_C\Public">
       <UniqueIdentifier>{84117085-9292-3E8F-AF6C-96C257A352BA}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source\Study_C\Public\Character">
-      <UniqueIdentifier>{B962E5EE-7079-33F8-A6AC-290C00AF329A}</UniqueIdentifier>
+    <Filter Include="Source\Study_C\Public\Actor">
+      <UniqueIdentifier>{100B63C5-A4D4-3DF9-BA10-247CB5B91622}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\Study_C\Public\Character\BallPlayer.h">
-      <Filter>Source\Study_C\Public\Character</Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Actor\Gun.h">
+      <Filter>Source\Study_C\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Study_C\Public\Actor\Projectile.h">
+      <Filter>Source\Study_C\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\AI">
+      <UniqueIdentifier>{9589D3CF-9842-3C99-BAF9-7468DDE38557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Study_C\Public\AI\AIController">
+      <UniqueIdentifier>{21B7F07B-7D3F-3332-B2B2-FFD8182A0D10}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\AI\AIController\SmallENemyController.h">
+      <Filter>Source\Study_C\Public\AI\AIController</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\AI\EnemyPawn">
+      <UniqueIdentifier>{80C285D7-85FD-3D73-86BC-A5FF81736EA0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\AI\EnemyPawn\EnemyPawn.h">
+      <Filter>Source\Study_C\Public\AI\EnemyPawn</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\AnimInstance">
+      <UniqueIdentifier>{C67CDF69-5D4B-3A09-949B-2772ED59DEE1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\AnimInstance\MyAnimInstance.h">
+      <Filter>Source\Study_C\Public\AnimInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Study_C\Public\AnimInstance\PlayerAnimInstance.h">
+      <Filter>Source\Study_C\Public\AnimInstance</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\Component">
+      <UniqueIdentifier>{9E03B39A-820A-3CBA-BA9C-B81EE6882700}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Component\MyFloatingPawnMovement.h">
+      <Filter>Source\Study_C\Public\Component</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\Controller">
+      <UniqueIdentifier>{3BE476EA-EEAD-32EF-ACAB-9053DC729AB8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Controller\PlayerCharacterController.h">
+      <Filter>Source\Study_C\Public\Controller</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\GameMode">
+      <UniqueIdentifier>{1C67BE8B-4AC2-32FE-B2EC-8D4B01509C4E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\GameMode\PlayGameMode.h">
+      <Filter>Source\Study_C\Public\GameMode</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\Manager">
+      <UniqueIdentifier>{6683B9C3-554F-3185-A496-A5603DB15213}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Manager\ProjectileManager.h">
+      <Filter>Source\Study_C\Public\Manager</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\Pawn">
+      <UniqueIdentifier>{5ECE98AB-0A8E-34D1-BD31-2087D966704E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Pawn\PlayerPawn.h">
+      <Filter>Source\Study_C\Public\Pawn</Filter>
+    </ClInclude>
+    <Filter Include="Source\Study_C\Public\Wepaon">
+      <UniqueIdentifier>{73FEAA43-B0B7-3351-8607-3BD6BD35327D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Study_C\Public\Wepaon\Weapon.h">
+      <Filter>Source\Study_C\Public\Wepaon</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

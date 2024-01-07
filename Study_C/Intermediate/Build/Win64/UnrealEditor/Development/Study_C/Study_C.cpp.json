@@ -1,12 +1,12 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "d:\\ue5_c++\\ue5_c\\ue5_c\\study_c\\source\\study_c\\study_c.cpp",
+        "Source": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\source\\study_c\\study_c.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\ue5_c++\\ue5_c\\ue5_c\\study_c\\intermediate\\build\\win64\\study_ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\study_ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\ue5_c++\\ue5_c\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\development\\study_c\\definitions.study_c.h",
-            "d:\\ue5_c++\\ue5_c\\ue5_c\\study_c\\source\\study_c\\study_c.h"
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\development\\study_c\\definitions.study_c.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\source\\study_c\\study_c.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

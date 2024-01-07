@@ -1,0 +1,1086 @@
+﻿Log file open, 12/18/23 20:56:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8852)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Study_C
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Study_C.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2428] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f89e7c81442c9a3bf5af5a9eb534b5b0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.359532
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-561D83084E953CDBC93348851A7B653D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2428] (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.12.18-11.56.04:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.12.18-11.56.04:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.12.18-11.56.04:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.12.18-11.56.04:065][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.12.18-11.56.04:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.12.18-11.56.04:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.12.18-11.56.04:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.12.18-11.56.04:066][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.12.18-11.56.04:066][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.12.18-11.56.04:066][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.12.18-11.56.04:070][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.12.18-11.56.04:071][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.12.18-11.56.04:071][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.12.18-11.56.04:071][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.12.18-11.56.04:100][  0]LogD3D12RHI: Aftermath initialized
+[2023.12.18-11.56.04:100][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.12.18-11.56.04:359][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.18-11.56.04:359][  0]LogD3D12RHI: Adapter has 6009MB of dedicated video memory, 0MB of dedicated system memory, and 8081MB of shared system memory, 1 output[s]
+[2023.12.18-11.56.04:411][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.18-11.56.04:411][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8081MB of shared system memory, 0 output[s]
+[2023.12.18-11.56.04:425][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.12.18-11.56.04:425][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8081MB of shared system memory, 0 output[s]
+[2023.12.18-11.56.04:426][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.12.18-11.56.04:426][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.18-11.56.04:427][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.12.18-11.56.04:428][  0]LogHAL: Display: Platform has ~ 16 GB [16948453376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.18-11.56.04:428][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.12.18-11.56.04:428][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.12.18-11.56.04:428][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.18-11.56.04:434][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.12.18-11.56.04:434][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Config/WindowsEditor/Editor.ini]
+[2023.12.18-11.56.04:434][  0]LogInit: Computer: DESKTOP-3OSOGEP
+[2023.12.18-11.56.04:434][  0]LogInit: User: reiji
+[2023.12.18-11.56.04:434][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.12.18-11.56.04:434][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.18-11.56.04:434][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.12.18-11.56.04:434][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.12.18-11.56.04:434][  0]LogMemory: Process Physical Memory: 276.51 MB used, 282.94 MB peak
+[2023.12.18-11.56.04:434][  0]LogMemory: Process Virtual Memory: 247.62 MB used, 247.62 MB peak
+[2023.12.18-11.56.04:434][  0]LogMemory: Physical Memory: 7337.38 MB used,  8825.92 MB free, 16163.30 MB total
+[2023.12.18-11.56.04:434][  0]LogMemory: Virtual Memory: 8915.41 MB used,  15951.89 MB free, 24867.30 MB total
+[2023.12.18-11.56.04:434][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.12.18-11.56.04:441][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.18-11.56.04:479][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.12.18-11.56.04:482][  0]LogInit: Using OS detected language (ja-JP).
+[2023.12.18-11.56.04:482][  0]LogInit: Using OS detected locale (ja-JP).
+[2023.12.18-11.56.04:499][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so 'ja' will be used for the language.
+[2023.12.18-11.56.04:656][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.18-11.56.04:683][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.12.18-11.56.04:683][  0]LogWindowsTextInputMethodSystem:   - 日本語 (日本) - Microsoft IME (TSF IME).
+[2023.12.18-11.56.04:683][  0]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2023.12.18-11.56.04:743][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.18-11.56.04:743][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.18-11.56.07:403][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.12.18-11.56.07:407][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.12.18-11.56.07:407][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.12.18-11.56.07:534][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.12.18-11.56.07:610][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.12.18-11.56.07:619][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.12.18-11.56.07:638][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.12.18-11.56.07:663][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.12.18-11.56.07:663][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.12.18-11.56.07:708][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.18-11.56.07:708][  0]LogWindows: Attached monitors:
+[2023.12.18-11.56.07:708][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.12.18-11.56.07:708][  0]LogWindows: Found 1 attached monitors.
+[2023.12.18-11.56.07:708][  0]LogWindows: EnumDisplayDevices:
+[2023.12.18-11.56.07:708][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.12.18-11.56.07:709][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.12.18-11.56.07:709][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.12.18-11.56.07:709][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.12.18-11.56.07:709][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.12.18-11.56.07:709][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.12.18-11.56.07:709][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.12.18-11.56.07:710][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.12.18-11.56.07:710][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.12.18-11.56.07:710][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.12.18-11.56.07:710][  0]LogD3D12RHI:   Driver Version: 536.67 (internal:31.0.15.3667, unified:536.67)
+[2023.12.18-11.56.07:710][  0]LogD3D12RHI:      Driver Date: 7-12-2023
+[2023.12.18-11.56.07:710][  0]LogRHI: Texture pool is 3301 MB (70% of 4716 MB)
+[2023.12.18-11.56.07:710][  0]LogD3D12RHI: Async texture creation enabled
+[2023.12.18-11.56.07:710][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.12.18-11.56.07:764][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.12.18-11.56.07:780][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyReport_0.log" -log="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyLog_0.log" -project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject"  -platform=all'
+[2023.12.18-11.56.07:780][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyReport_0.log" -log="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/TurnkeyLog_0.log" -project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject"  -platform=all" ]
+[2023.12.18-11.56.07:829][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.12.18-11.56.07:857][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.12.18-11.56.07:857][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.18-11.56.07:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.18-11.56.07:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.12.18-11.56.07:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.12.18-11.56.07:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.18-11.56.07:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.18-11.56.07:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.18-11.56.07:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.12.18-11.56.07:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.18-11.56.07:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.18-11.56.07:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.12.18-11.56.07:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.12.18-11.56.07:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.12.18-11.56.07:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.18-11.56.07:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.18-11.56.07:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.18-11.56.07:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.12.18-11.56.07:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.18-11.56.07:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.18-11.56.07:981][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.12.18-11.56.07:998][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.18-11.56.08:002][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.12.18-11.56.08:002][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.12.18-11.56.08:002][  0]LogTargetPlatformManager:   ADPCM
+[2023.12.18-11.56.08:002][  0]LogTargetPlatformManager:   PCM
+[2023.12.18-11.56.08:008][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.12.18-11.56.08:008][  0]LogTargetPlatformManager:   BINKA
+[2023.12.18-11.56.08:008][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.12.18-11.56.08:008][  0]LogTargetPlatformManager:   OGG
+[2023.12.18-11.56.08:008][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.12.18-11.56.08:008][  0]LogTargetPlatformManager:   OPUS
+[2023.12.18-11.56.08:155][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.12.18-11.56.08:167][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.12.18-11.56.08:167][  0]LogTargetPlatformManager:   SF_METAL
+[2023.12.18-11.56.08:167][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.12.18-11.56.08:167][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.12.18-11.56.08:167][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.12.18-11.56.08:167][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.12.18-11.56.08:168][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.12.18-11.56.08:176][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.12.18-11.56.08:176][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.18-11.56.08:182][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.12.18-11.56.08:188][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.18-11.56.08:189][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.12.18-11.56.08:194][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.18-11.56.08:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.18-11.56.08:203][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.12.18-11.56.08:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.18-11.56.08:203][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.12.18-11.56.08:232][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.12.18-11.56.08:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.18-11.56.08:234][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.12.18-11.56.08:305][  0]LogDerivedDataCache: Speed tests for C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2023.12.18-11.56.08:305][  0]LogDerivedDataCache: Display: Performance to C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.26ms. RandomReadSpeed=16.04MBs, RandomWriteSpeed=114.43MBs. Assigned SpeedClass 'Local'
+[2023.12.18-11.56.08:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.18-11.56.08:313][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.18-11.56.08:313][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.12.18-11.56.08:322][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.12.18-11.56.08:322][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.12.18-11.56.08:331][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Intermediate/Shaders/WorkingDirectory/20384/).
+[2023.12.18-11.56.08:331][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/reiji/AppData/Local/Temp/UnrealShaderWorkingDir/E2535E9244178C52BF7EB0B3B8C5A70C/'.
+[2023.12.18-11.56.08:332][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.18-11.56.08:332][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.12.18-11.56.14:645][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.12.18-11.56.14:645][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.18-11.56.14:660][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.18-11.56.14:733][  0]LogAssetRegistry: FAssetRegistry took 0.0208 seconds to start up
+[2023.12.18-11.56.14:749][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.12.18-11.56.15:203][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.12.18-11.56.15:210][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.12.18-11.56.15:493][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.18-11.56.15:493][  0]LogDeviceProfileManager: Active device profile: [00000A844109BB40][00000A8432F10000 50] WindowsEditor
+[2023.12.18-11.56.15:493][  0]LogDeviceProfileManager: Profiles: [00000A844109B600][00000A84285E0000 50] Windows, [00000A844109BB40][00000A8432F10000 50] WindowsEditor, [00000A8441099300][00000A84414A0000 50] WindowsServer, [00000A8441098F80][00000A84414A5000 50] WindowsClient, [00000A8441097380][00000A84414A7800 50] IOS, [00000A844109AF00][00000A84414AA000 50] iPadAir2, [00000A844109C400][00000A8432F12800 50] IPadPro, [00000A844109C780][00000A84414AC800 50] iPadAir3, [00000A844109B280][00000A84414C0000 50] iPadAir4, [00000A8441099A00][00000A84414C5000 50] iPadMini4, [00000A844109A100][00000A84414C7800 50] iPadMini5, [00000A844109BEC0][00000A84414CA000 50] iPadMini6, [00000A844109EFC0][00000A8441520000 50] iPhone6S, [00000A844109F340][00000A8441522800 50] iPhone7, [00000A844109F6C0][00000A8441525000 50] iPodTouch7, [00000A8441098C00][00000A844152A000 50] iPhone6SPlus, [00000A844109EE00][00000A844152C800 50] iPhone7Plus, [00000A844109CB00][00000A84414A2800 50] iPhoneSE, [00000A8441098180][00000A84414CC800 50] iPhone8, [00000A844109D900][00000A8441527800 50] iPhone8Plus, [00000A8441097C40][00000A84414D0000 50] iPhoneX, [00000A844109A480][00000A84414D5000 50] iPhoneXS, [00000A844109E700][00000A84414D7800 50] iPhoneXSMax, [00000A8441099140][00000A84414DA000 50] iPhoneXR, [00000A844109AB80][00000A84414DC800 50] iPhone11, [00000A844109D740][00000A84414C2800 50] iPhone11Pro, [00000A84410971C0][00000A84414E0000 50] iPhone11ProMax, [00000A8441097000][00000A84414E5000 50] iPhoneSE2, [00000A84410994C0][00000A84414E7800 50] iPhone12Mini, [00000A8441099BC0][00000A84414EA000 50] iPhone12, [00000A844109CE80][00000A84414EC800 50] iPhone12Pro, [00000A8441099F40][00000A84414D2800 50] iPhone12ProMax, [00000A844109D580][00000A84414F0000 50] iPhone13Mini, [00000A844109C080][00000A84414F5000 50] iPhone13, [00000A844109E540][00000A84414F7800 50] iPhone13Pro, [00000A844109A800][00000A84414FA000 50] iPhone13ProMax, [00000A844109E380][00000A84414FC800 50] iPadPro105, [00000A844109B980][00000A84414E2800 50] iPadPro129, [00000A844109DE40][00000A8441500000 50] iPadPro97, [00000A844109F880][00000A8441505000 50] iPadPro2_129, [00000A8441097A80][00000A8441507800 50] iPad5, [00000A8441098DC0][00000A844150A000 50] iPad6, [00000A8441097540][00000A844150C800 50] iPad7, [00000A844109D040][00000A84414F2800 50] iPad8, [00000A844109C5C0][00000A8441510000 50] iPad9, [00000A844109E000][00000A8441515000 50] iPadPro11, [00000A84410978C0][00000A8441517800 50] iPadPro2_11, [00000A844109F180][00000A844151A000 50] iPadPro3_11, [00000A844109B440][00000A844151C800 50] iPadPro3_129, [00000A844109DC80][00000A8441502800 50] iPadPro4_129, [00000A8441098500][00000A8441540000 50] iPadPro5_129, [00000A8441099680][00000A8441545000 50] AppleTV, [00000A8441099840][00000A8441547800 50] AppleTV4K, [00000A844109E8C0][00000A844154A000 50] TVOS, [00000A8441581180][00000A8441512800 50] Mac, [00000A8441581500][00000A844154C800 50] MacEditor, [00000A8441582680][00000A8441550000 50] MacClient, [00000A8441582300][00000A8441555000 50] MacServer, [00000A8441584980][00000A844155A000 50] Linux, [00000A8441584D00][00000A8441557800 50] LinuxEditor, [00000A8441581DC0][00000A844155C800 50] LinuxArm64Editor, [00000A8441584440][00000A8441542800 50] LinuxArm64, [00000A8441581A40][00000A8441560000 50] LinuxClient, [00000A8441583F00][00000A8441565000 50] LinuxArm64Client, [00000A84415824C0][00000A8441567800 50] LinuxServer, [00000A84415839C0][00000A844156A000 50] LinuxArm64Server, [00000A8441580A80][00000A844156C800 50] Android, [00000A8441582A00][00000A8441552800 50] Android_Preview_OpenGL, [00000A84415801C0][00000A8441570000 50] Android_Preview_Vulkan, [00000A8441583640][00000A8441575000 50] Android_Low, [00000A8441582D80][00000A8441577800 50] Android_Mid, [00000A8441581340][00000A844157A000 50] Android_High, [00000A8441580C40][00000A844157C800 50] Android_Default, [00000A8441580700][00000A8441562800 50] Android_Adreno4xx, [00000A8441580540][00000A8441590000 50] Android_Adreno5xx_Low, [00000A8441580FC0][00000A8441595000 50] Android_Adreno5xx, [00000A8441584280][00000A8441597800 50] Android_Adreno6xx, [00000A84415840C0][00000A844159A000 50] Android_Adreno6xx_Vulkan, [00000A8441584600][00000A844159C800 50] Android_Adreno7xx, [00000A84415847C0][00000A8441572800 50] Android_Adreno7xx_Vulkan, [00000A84415816C0][00000A84415A0000 50] Android_Mali_T6xx, [00000A8441583480][00000A84415A5000 50] Android_Mali_T7xx, [00000A8441581C00][00000A84415A7800 50] Android_Mali_T8xx, [00000A8441581F80][00000A84415AA000 50] Android_Mali_G71, [00000A8441583800][00000A84415AC800 50] Android_Mali_G72, [00000A8441583D40][00000A8441592800 50] Android_Mali_G72_Vulkan, [00000A84415832C0][00000A84415B0000 50] Android_Mali_G76, [00000A8441584B40][00000A84415B5000 50] Android_Mali_G76_Vulkan, [00000A8441580380][00000A84415B7800 50] Android_Mali_G77, [00000A8441585940][00000A84415BA000 50] Android_Mali_G77_Vulkan, [00000A8441583B80][00000A84415BC800 50] Android_Mali_G78, [00000A8441584EC0][00000A84415A2800 50] Android_Mali_G78_Vulkan, [00000A8441580E00][00000A84415C0000 50] Android_Mali_G710, [00000A8441583100][00000A84415C5000 50] Android_Mali_G710_Vulkan, [00000A8441582840][00000A84415C7800 50] Android_Xclipse_920, [00000A8441582140][00000A84415CA000 50] Android_Xclipse_920_Vulkan, [00000A8441585400][00000A84415CC800 50] Android_Vulkan_SM5, [00000A84415855C0][00000A84415B2800 50] Android_PowerVR_G6xxx, [00000A8441586200][00000A8441620000 50] Android_PowerVR_GT7xxx, [00000A84415863C0][00000A8441625000 50] Android_PowerVR_GE8xxx, [00000A8441586900][00000A8441627800 50] Android_PowerVR_GM9xxx, [00000A8441586740][00000A844162A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A8441582F40][00000A844162C800 50] Android_TegraK1, [00000A8441586C80][00000A84415C2800 50] Android_Unknown_Vulkan, [00000A8441585780][00000A8441630000 50] Oculus_Quest, [00000A8441582BC0][00000A8441635000 50] Oculus_Quest2, [00000A84415878C0][00000A8441637800 50] HoloLens, 
+[2023.12.18-11.56.15:493][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.12.18-11.56.15:506][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.12.18-11.56.15:650][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.12.18-11.56.15:923][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.18-11.56.15:923][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.18-11.56.15:923][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.18-11.56.15:923][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.18-11.56.15:924][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.18-11.56.15:998][  0]LogNetVersion: Study_C 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 854126533)
+[2023.12.18-11.56.16:594][  0]LogSlate: Border
+[2023.12.18-11.56.16:594][  0]LogSlate: BreadcrumbButton
+[2023.12.18-11.56.16:594][  0]LogSlate: Default
+[2023.12.18-11.56.16:594][  0]LogSlate: Icons.Save
+[2023.12.18-11.56.16:594][  0]LogSlate: Icons.Toolbar.Settings
+[2023.12.18-11.56.16:594][  0]LogSlate: ListView
+[2023.12.18-11.56.16:594][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.12.18-11.56.16:594][  0]LogSlate: SoftwareCursor_Grab
+[2023.12.18-11.56.16:594][  0]LogSlate: TableView.DarkRow
+[2023.12.18-11.56.16:594][  0]LogSlate: TableView.Row
+[2023.12.18-11.56.16:594][  0]LogSlate: TreeView
+[2023.12.18-11.56.17:271][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.17:367][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.17:367][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.17:613][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.12.18-11.56.17:614][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.12.18-11.56.17:614][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.18-11.56.18:722][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 10C7B4804B761BF6869491B1246D7FCE | Instance: 56C4C79742A2462EC276F99ECE9AFA94 (DESKTOP-3OSOGEP-20384).
+[2023.12.18-11.56.18:877][  0]LogPython: Using Python 3.9.7
+[2023.12.18-11.56.20:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.18-11.56.20:026][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.18-11.56.20:183][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-11.56.20:183][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD'
+[2023.12.18-11.56.20:206][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-11.56.20:206][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals'
+[2023.12.18-11.56.20:206][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-11.56.20:206][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA'
+[2023.12.18-11.56.20:206][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-11.56.20:206][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile'
+[2023.12.18-11.56.20:212][  0]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_ChestLogo.uasset:  '/Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-11.56.20:213][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Animation/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N'
+[2023.12.18-11.56.20:268][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: E0C434FFBA183A5CEFF14C2F95493DCAAD813C4B), compiling. 
+[2023.12.18-11.56.20:272][  0]LogMaterial: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+
+[2023.12.18-11.56.20:277][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 904998E572DA08358725591F3BBA198F63811613), compiling. 
+[2023.12.18-11.56.20:278][  0]LogMaterial: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\SkeletalMesh\Materials\M_UE4Man_ChestLogo.uasset: Failed to compile Material Instance with Base M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function ML_Plastic_Shiny_Beige_LOGO: (Node TextureSample) Texture Sample> Missing input texture
+	Function ML_Plastic_Shiny_Beige_LOGO: (Node MakeMaterialAttributes) Error on property OpacityMask
+
+[2023.12.18-11.56.20:312][  0]LogSkeletalMesh: Display: スケルタルメッシュの準備ができるのを待ってます。0/1 (SK_Mannequin)…
+[2023.12.18-11.56.20:328][  0]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.18-11.56.20:329][  0]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.18-11.56.20:337][  0]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.18-11.56.20:447][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.20:454][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.20:480][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.20:492][  0]LogUProjectInfo: Found projects:
+[2023.12.18-11.56.21:342][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.18-11.56.21:424][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.18-11.56.21:464][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.18-11.56.21:464][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.18-11.56.21:642][  0]LogCollectionManager: Loaded 0 collections in 0.003202 seconds
+[2023.12.18-11.56.21:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Collections/' took 0.00s
+[2023.12.18-11.56.21:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Developers/reiji/Collections/' took 0.00s
+[2023.12.18-11.56.21:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Collections/' took 0.00s
+[2023.12.18-11.56.22:237][  0]LogEngine: Initializing Engine...
+[2023.12.18-11.56.22:256][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.12.18-11.56.22:277][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.12.18-11.56.22:841][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.18-11.56.22:844][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.18-11.56.22:875][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-11.56.22:971][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.18-11.56.22:979][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.18-11.56.23:008][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.18-11.56.23:015][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.18-11.56.23:015][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.12.18-11.56.23:016][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.18-11.56.23:016][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.18-11.56.23:017][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.18-11.56.23:018][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-11.56.23:019][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-11.56.23:019][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-11.56.23:019][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-11.56.23:033][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-11.56.24:078][  0]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Realtek(R) Audio)
+[2023.12.18-11.56.24:079][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-11.56.24:107][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-11.56.24:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-11.56.24:111][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.12.18-11.56.24:111][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.18-11.56.24:113][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.18-11.56.24:113][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.12.18-11.56.24:113][  0]LogInit: FAudioDevice initialized.
+[2023.12.18-11.56.24:114][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.18-11.56.24:114][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.18-11.56.24:114][  0]LogInit: Texture streaming: Enabled
+[2023.12.18-11.56.24:166][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.12.18-11.56.24:183][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.18-11.56.24:232][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.12.18-11.56.24:310][  0]LogInit: Transaction tracking system initialized
+[2023.12.18-11.56.24:446][  0]BlueprintLog: New page: エディタの読み込み
+[2023.12.18-11.56.24:798][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2023.12.18-11.56.24:894][  0]TimingProfiler: Initialize
+[2023.12.18-11.56.24:894][  0]TimingProfiler: OnSessionChanged
+[2023.12.18-11.56.24:894][  0]LoadingProfiler: Initialize
+[2023.12.18-11.56.24:894][  0]LoadingProfiler: OnSessionChanged
+[2023.12.18-11.56.24:897][  0]NetworkingProfiler: Initialize
+[2023.12.18-11.56.24:900][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.18-11.56.24:900][  0]MemoryProfiler: Initialize
+[2023.12.18-11.56.24:900][  0]MemoryProfiler: OnSessionChanged
+[2023.12.18-11.56.26:710][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/' took 0.02s
+[2023.12.18-11.56.26:710][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.12.18-11.56.26:811][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.18-11.56.26:819][  0]SourceControl: ソースコントロールは無効です
+[2023.12.18-11.56.26:820][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.346
+[2023.12.18-11.56.26:822][  0]Cmd: MAP LOAD FILE="../../../../../../Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Level/Test_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.18-11.56.26:828][  0]LightingResults: New page: ライティングのビルド
+[2023.12.18-11.56.26:840][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-11.56.26:843][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-11.56.26:844][  0]MapCheck: New page: マップをチェック
+[2023.12.18-11.56.26:844][  0]LightingResults: New page: <何も選択されていません>
+[2023.12.18-11.56.26:861][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-11.56.26:872][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.18-11.56.27:040][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test_Level'.
+[2023.12.18-11.56.27:041][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.18-11.56.27:042][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-11.56.27:042][  0]LogAIModule: Creating AISystem for world Test_Level
+[2023.12.18-11.56.27:084][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.18-11.56.27:111][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.18-11.56.27:113][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.18-11.56.27:115][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 1.352ミリ秒かかりました。
+[2023.12.18-11.56.27:115][  0]LogFileHelpers: Loading map 'Test_Level' took 0.294
+[2023.12.18-11.56.27:188][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.716
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: ================================================
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.18-11.56.27:188][  0]LogShaderCompilers: Display: ================================================
+[2023.12.18-11.56.27:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-11.56.27:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-11.56.27:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-11.56.27:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-11.56.27:487][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:487][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:500][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:500][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:511][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:522][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:522][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:543][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:543][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:557][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:557][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:569][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:569][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:578][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:579][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:587][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:587][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:604][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.12.18-11.56.27:605][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.18-11.56.27:605][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.12.18-11.56.28:668][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.12.18-11.56.29:048][  0]LogUObjectGlobals: Warning: オブジェクト 'Class なし.Physics' が見つかりませんでした
+[2023.12.18-11.56.30:122][  0]LogSlate: Took 0.012351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.18-11.56.30:136][  0]LogSlate: Took 0.011690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2023.12.18-11.56.30:149][  0]LogSlate: Took 0.008404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.18-11.56.30:178][  0]LogSlate: Took 0.007663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2023.12.18-11.56.30:186][  0]LogSlate: Took 0.007308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2023.12.18-11.56.30:193][  0]LogSlate: Took 0.006775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2023.12.18-11.56.30:200][  0]LogSlate: Took 0.007519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2023.12.18-11.56.30:230][  0]LogSlate: Took 0.007297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.18-11.56.30:248][  0]LogViewport: Scene viewport resized to 1419x436, mode Windowed.
+[2023.12.18-11.56.31:407][  0]LogStall: Startup...
+[2023.12.18-11.56.31:412][  0]LogStall: Startup complete.
+[2023.12.18-11.56.31:438][  0]LogLoad: (Engine Initialization) Total time: 29.97 seconds
+[2023.12.18-11.56.31:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.18-11.56.31:700][  0]LogAssetRegistry: Asset discovery search completed in 16.9697 seconds
+[2023.12.18-11.56.31:754][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.12.18-11.56.31:797][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.12.18-11.56.33:027][  4]LogSlate: Took 0.008232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.18-11.58.08:766][936]LogDerivedDataCache: C:/Users/reiji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.225 and deleted 0 file(s) with total size 0 MiB.
+[2023.12.18-12.09.46:070][129]LogSlate: Took 0.006059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.18-12.09.46:115][129]LogSlate: Took 0.005607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.18-12.09.46:260][137]LogUObjectGlobals: Warning: オブジェクト 'Material なし./Game/SkeletalMesh/Materials/M_UE4Man_ChestLogo' が見つかりませんでした
+[2023.12.18-12.13.24:247][204]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.12.18-12.13.24:247][204]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Content/Developers/reiji/Collections/' because it could not be accessed. Aborting watch request...
+[2023.12.18-12.13.24:247][204]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.12.18-12.17.32:759][727]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.18-12.17.32:791][727]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2023.12.18-12.17.32:830][727]LogSlate: Took 0.006189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.18-12.17.34:301][810]LogSlate: Took 0.011731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.12.18-12.18.52:916][901]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" -game -rocket -progress
+[2023.12.18-12.18.53:726][901]Log file: C:\Users\reiji\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.12.18-12.18.53:826][901]Discovering modules, targets and source code for project...
+[2023.12.18-12.18.56:845][901]Binding IntelliSense data...
+[2023.12.18-12.19.05:602][901]Binding IntelliSense data... 100%
+[2023.12.18-12.19.05:602][901]Writing project files...
+[2023.12.18-12.19.10:231][901]Writing project files... 100%
+[2023.12.18-12.19.10:502][901]Candidate modules for hot reload:
+[2023.12.18-12.19.10:502][901]  Study_C
+[2023.12.18-12.19.10:506][901]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=Study_C,3822 Study_CEditor Win64 Development -Project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" "C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject"  -IgnoreJunk]
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: New page: コンパイル - 2023/12/19 6:19:24
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Log file: C:\Users\reiji\AppData\Local\UnrealBuildTool\Log.txt
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\reiji\Desktop\UE5_C++\UE5_C).
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Creating makefile for Study_CEditor (no existing makefile)
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Parsing headers for Study_CEditor
+[2023.12.18-12.19.24:591][901]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Study_C.uproject" "C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\Study_CEditor\Development\Study_CEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\reiji\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Reflection code generated for Study_CEditor in 5.0632556 seconds
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Building Study_CEditor...
+[2023.12.18-12.19.24:591][901]CompilerResultsLog: Using Visual Studio 2019 14.29.30153 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2023.12.18-12.19.24:592][901]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2023.12.18-12.19.24:592][901]CompilerResultsLog:   Requested 1.5 GB free memory per action, 6.79 GB available: limiting max parallel actions to 4
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: Building 11 actions with 4 processes...
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [1/11] Compile PlayerPawn.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: Error: C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Private\Pawn\PlayerPawn.cpp(88) : error C2039: 'Rotation': 'APlayerPawn' ?̃????o?[?ł͂????܂???
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Pawn\PlayerPawn.h(16): note: 'APlayerPawn' ?̐錾???m?F???Ă???????
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: Error: C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Private\Pawn\PlayerPawn.cpp(88) : error C2065: 'Rotation': ???`?????Ă??Ȃ????ʎq?ł??B
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: Error: C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Private\Pawn\PlayerPawn.cpp(89) : error C2039: 'Rotation': 'APlayerPawn' ?̃????o?[?ł͂????܂???
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Public\Pawn\PlayerPawn.h(16): note: 'APlayerPawn' ?̐錾???m?F???Ă???????
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: Error: C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Source\Study_C\Private\Pawn\PlayerPawn.cpp(89) : error C2065: 'Rotation': ???`?????Ă??Ȃ????ʎq?ł??B
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [2/11] Compile Study_C.init.gen.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [3/11] Compile Weapon.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [4/11] Compile Weapon.gen.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [5/11] Compile MyFloatingPawnMovement.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [6/11] Compile PlayerPawn.gen.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [7/11] Compile MyFloatingPawnMovement.gen.cpp
+[2023.12.18-12.19.24:592][901]CompilerResultsLog: [8/11] Compile PlayGameMode.cpp
+[2023.12.18-12.19.24:592][901]LogMainFrame: MainFrame: Module compiling took 14.143 seconds
+[2023.12.18-12.19.24:611][901]Warning: HotReload failed, recompile failed
+[2023.12.18-12.19.24:611][901]Warning: RebindPackages failed because compilation failed.
+[2023.12.18-12.19.34:155][901]LogSlate: Window 'メッセージ' being destroyed
+[2023.12.18-12.19.34:159][901]Message dialog closed, result: No, title: メッセージ, text: クラス 'Weapon'の追加に成功しました。ただしコンテントブラウザに表示されるようにするには'Study_C' モジュールをコンパイルする必要があります。 'Study_C' モジュールの自動ホットリロードに失敗しました。
+
+詳細を見るためにアウトプットログを開きますか？
+[2023.12.18-12.19.34:162][901]LogSlate: Window 'C++ クラスを追加' being destroyed
+[2023.12.18-12.24.27:055][182]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/reiji/Desktop/UE5_C++/UE5_C/Study_C/Study_C.uproject" -game -rocket -progress
+[2023.12.18-12.24.27:360][182]Log file: C:\Users\reiji\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.12.18-12.24.27:461][182]Discovering modules, targets and source code for project...
+[2023.12.18-12.24.28:768][182]Binding IntelliSense data...
+[2023.12.18-12.24.30:686][182]Binding IntelliSense data... 100%
+[2023.12.18-12.24.30:686][182]Writing project files...
+[2023.12.18-12.24.34:715][182]Writing project files... 100%
+[2023.12.18-12.32.10:304][766]LogMaterial: Display: Missing cached shadermap for M_GodRay in PCD3D_SM5, Default, SM5 (DDC key hash: 8378EA15D7F20BAD82DFB499404982619729678A), compiling. 
+[2023.12.18-12.32.10:399][766]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01.T_GodRay_Mask01 (BGRA8, 512X1024 X1X1) (推定必須メモリ：10.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.10:399][766]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask02.T_GodRay_Mask02 (BGRA8, 512X1024 X1X1) (推定必須メモリ：10.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.10:399][766]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Noise/TilingNoise02.TilingNoise02 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.10:399][766]LogMaterial: Display: Missing cached shadermap for M_GodRay_Inst_Animated in PCD3D_SM5, Default, SM5 (DDC key hash: 5219B83C1B9236E49F69F9E4BA0EDB99688505B0), compiling. 
+[2023.12.18-12.32.10:447][766]LogStaticMesh: Display: スタティックメッシュ SM_GodRay_Plane をビルド中...
+[2023.12.18-12.32.10:447][766]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/SM_GodRay_Plane.SM_GodRay_Plane
+[2023.12.18-12.32.10:452][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.12.18-12.32.12:230][766]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.18-12.32.12:277][766]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay.BP_GodRay
+	Asset Type: Blueprint
+	Asset Name: /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay.M_GodRay
+	Asset Type: Material
+	Asset Name: /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated.M_GodRay_Inst_Animated
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/SM_GodRay_Plane.SM_GodRay_Plane
+	Asset Type: StaticMesh
+	Asset Name: /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01.T_GodRay_Mask01
+	Asset Type: Texture2D
+	Asset Name: /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask02.T_GodRay_Mask02
+	Asset Type: Texture2D
+[2023.12.18-12.32.12:689][766]LogMaterial: Display: Missing cached shadermap for M_GodRay in PCD3D_SM5, Default, SM5 (DDC key hash: 37E7B7D4C4B19F92A87B89522A06A74527575B6F), compiling. 
+[2023.12.18-12.32.12:692][766]LogMaterial: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Weapon_Pack\Blueprints\Lightshaft\Lightshaft\M_GodRay.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.12.18-12.32.13:024][766]LogStaticMesh: Display: スタティックメッシュ SM_GodRay_Plane をビルド中...
+[2023.12.18-12.32.13:024][766]LogStaticMesh: Built static mesh [0.00s] /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/SM_GodRay_Plane.SM_GodRay_Plane
+[2023.12.18-12.32.13:024][766]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.12.18-12.32.16:771][766]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.12.18-12.32.16:772][766]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049347s
+[2023.12.18-12.32.16:908][766]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000916s (0.193904s overbudget)
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: ================================================
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 26 distinct outputs (81.25%)
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.12.18-12.32.16:923][766]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100.00%)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.04 s
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Job execution time: average 5.01 s, max 6.33 s
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Job life time (pending + execution): average 5.04 s, max 6.37
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.37 s
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 4.57 jobs/batch
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Average processing rate: 5.02 jobs/sec
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Effective parallelization: 4.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.50 sec, max 1.57 sec, min 1.43 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 1.47 sec, max 1.52 sec, min 1.41 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    2 times, average 1.24 sec, max 1.46 sec, min 1.03 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled    2 times, average 1.22 sec, max 1.56 sec, min 0.88 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.15 sec, max 1.35 sec, min 0.95 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.94% of total time (compiled    2 times, average 1.50 sec, max 1.57 sec, min 1.43 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.72% of total time (compiled    2 times, average 1.47 sec, max 1.52 sec, min 1.41 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy - 9.06% of total time (compiled    2 times, average 1.24 sec, max 1.46 sec, min 1.03 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> - 8.90% of total time (compiled    2 times, average 1.22 sec, max 1.56 sec, min 0.88 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.38% of total time (compiled    2 times, average 1.15 sec, max 1.35 sec, min 0.95 sec)
+[2023.12.18-12.32.16:924][766]LogShaderCompilers: Display: ================================================
+[2023.12.18-12.32.16:957][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.12.18-12.32.17:059][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.18-12.32.17:064][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.12.18-12.32.20:948][988]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.12.18-12.32.20:951][988]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Weapon_Pack\Map\Weapons_Kit.umap:  '/Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-12.32.20:951][988]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Weapon_Pack/Blueprints/Lightshaft/BP_GodRay'
+[2023.12.18-12.32.21:047][988]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Weapon_Pack\Map\Weapons_Kit.umap:  '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-12.32.21:047][988]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated'
+[2023.12.18-12.32.21:049][988]LogLinker: Warning: [AssetLog] C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Content\Weapon_Pack\Map\Weapons_Kit.umap:  '/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01' のロードに失敗しました: ファイルが見つかりません
+[2023.12.18-12.32.21:049][988]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/T_GodRay_Mask01'
+[2023.12.18-12.32.21:170][988]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/Weapon_Pack/Textures/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.12.18-12.32.21:180][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTexture312509D6484085BAD2FA6DA7FABBAF4E (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:197][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureCED624E741E6EFC486A610B49646B2AA (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:236][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:236][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:270][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:271][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:271][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:271][988]LogMaterial: Display: Missing cached shadermap for M_Stained_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: BC95271542924805751E4011FD40EE9F9E8EC1B0), compiling. 
+[2023.12.18-12.32.21:401][988]LogMaterial: Display: Missing cached shadermap for M_Stone_Wall_Trim in PCD3D_SM5, Default, SM5 (DDC key hash: 2BAC38B71052D75E82A9F9A743DC2B895C08ABCA), compiling. 
+[2023.12.18-12.32.21:452][988]LogMaterial: Display: Missing cached shadermap for M_Wall_Window_Frame1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C5B39431B1F9EC742C67452B45A65592457CF4E), compiling. 
+[2023.12.18-12.32.21:498][988]LogMaterial: Display: Missing cached shadermap for M_Wall_Window_Frame2 in PCD3D_SM5, Default, SM5 (DDC key hash: C65E19ED49CB30FF9B23902A38951CAFE72B7695), compiling. 
+[2023.12.18-12.32.21:543][988]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV_11X11_Noise in PCD3D_SM5, Default, SM5 (DDC key hash: D50A9CD2F1488F19E3CCFB08E352924F0846C156), compiling. 
+[2023.12.18-12.32.21:611][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:612][988]LogMaterial: Display: Missing cached shadermap for M_HeatDistort in PCD3D_SM5, Default, SM5 (DDC key hash: BE847D83D069E39E8FE31B1A103111BEEF8F50BA), compiling. 
+[2023.12.18-12.32.21:737][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:737][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:737][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:737][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:737][988]LogMaterial: Display: Missing cached shadermap for M_FlareRound in PCD3D_SM5, Default, SM5 (DDC key hash: 9A8535C02CD450CC6053BBA64D816558BAD0E1FD), compiling. 
+[2023.12.18-12.32.21:787][988]LogMaterial: Display: Missing cached shadermap for M_Spark_VelocityLerp in PCD3D_SM5, Default, SM5 (DDC key hash: DC557F2CB3D7213FC298B337D900EF5CD82875BD), compiling. 
+[2023.12.18-12.32.21:855][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.21:855][988]LogMaterial: Display: Missing cached shadermap for M_Banners in PCD3D_SM5, Default, SM5 (DDC key hash: E9942C395CE32A6D3C39E2949A9909B82E28BC85), compiling. 
+[2023.12.18-12.32.21:900][988]LogMaterial: Display: Missing cached shadermap for M_Props1 in PCD3D_SM5, Default, SM5 (DDC key hash: 356C2C0B898AE323CF5304D3DFF31E750F457F9F), compiling. 
+[2023.12.18-12.32.21:968][988]LogStaticMesh: Display: スタティックメッシュ SM_Banner_1 をビルド中...
+[2023.12.18-12.32.21:968][988]LogMaterial: Display: Missing cached shadermap for M_Wood_Props in PCD3D_SM5, Default, SM5 (DDC key hash: 8324A126E213ABECB94C6A8D23ADFB4F3686581F), compiling. 
+[2023.12.18-12.32.22:023][988]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Banner_1.SM_Banner_1
+[2023.12.18-12.32.22:023][988]LogStaticMesh: Display: スタティックメッシュ SM_Banner_Rod1 をビルド中...
+[2023.12.18-12.32.22:023][988]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Banner_Rod1.SM_Banner_Rod1
+[2023.12.18-12.32.22:023][988]LogMaterial: Display: Missing cached shadermap for M_Props2 in PCD3D_SM5, Default, SM5 (DDC key hash: 74AB752E9DE672BDE3E691F27B009E9935E201B1), compiling. 
+[2023.12.18-12.32.22:067][988]LogStaticMesh: Display: スタティックメッシュ SM_Barrel をビルド中...
+[2023.12.18-12.32.22:067][988]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Barrel.SM_Barrel
+[2023.12.18-12.32.22:067][988]LogMaterial: Display: Missing cached shadermap for M_Props3 in PCD3D_SM5, Default, SM5 (DDC key hash: B9F76CC3A11075EC5E102E6F059EFD9E17D7A2FC), compiling. 
+[2023.12.18-12.32.22:116][988]LogStaticMesh: Display: スタティックメッシュ SM_Bench をビルド中...
+[2023.12.18-12.32.22:116][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:116][988]LogStaticMesh: Built static mesh [0.04s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Bench.SM_Bench
+[2023.12.18-12.32.22:116][988]LogMaterial: Display: Missing cached shadermap for M_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 3DAD7EDFD8FE0B624062297942168B4C0D3FD1A0), compiling. 
+[2023.12.18-12.32.22:170][988]LogStaticMesh: Display: スタティックメッシュ SM_Chair をビルド中...
+[2023.12.18-12.32.22:170][988]LogStaticMesh: Display: スタティックメッシュ SM_Fire_Bowl をビルド中...
+[2023.12.18-12.32.22:170][988]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Fire_Bowl.SM_Fire_Bowl
+[2023.12.18-12.32.22:170][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:170][988]LogMaterial: Display: Missing cached shadermap for M_Stone_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 2BB27E91F67B039284CB5E23F1B327149FB0B5EC), compiling. 
+[2023.12.18-12.32.22:216][988]LogStaticMesh: Built static mesh [0.06s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Chair.SM_Chair
+[2023.12.18-12.32.22:216][988]LogStaticMesh: Display: スタティックメッシュ SM_Holder をビルド中...
+[2023.12.18-12.32.22:216][988]LogMaterial: Display: Missing cached shadermap for M_Window_Frames in PCD3D_SM5, Default, SM5 (DDC key hash: E322F7F8953F6CF3DC029F9DBA5DB8B3F5C46FA1), compiling. 
+[2023.12.18-12.32.22:263][988]LogStaticMesh: Display: スタティックメッシュ SM_Table をビルド中...
+[2023.12.18-12.32.22:263][988]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Holder.SM_Holder
+[2023.12.18-12.32.22:263][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:263][988]LogStaticMesh: Built static mesh [0.04s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Table.SM_Table
+[2023.12.18-12.32.22:263][988]LogStaticMesh: Display: スタティックメッシュ SM_Wall_Torch1 をビルド中...
+[2023.12.18-12.32.22:263][988]LogMaterial: Display: Missing cached shadermap for M_WeaponSet_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B8578A8EE244831EAEF2FB7C1E1B4E9D601D881), compiling. 
+[2023.12.18-12.32.22:327][988]LogStaticMesh: Display: スタティックメッシュ SM_Weapon_Rack2 をビルド中...
+[2023.12.18-12.32.22:327][988]LogStaticMesh: Built static mesh [0.05s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Wall_Torch1.SM_Wall_Torch1
+[2023.12.18-12.32.22:327][988]LogStaticMesh: Built static mesh [0.04s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Weapon_Rack2.SM_Weapon_Rack2
+[2023.12.18-12.32.22:327][988]LogMaterial: Display: Missing cached shadermap for M_WeaponSet_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F65CD07D048F80F555F346470E83460B4BAFA328), compiling. 
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Weapon_rack_1 をビルド中...
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Weapon_rack_1.SM_Weapon_rack_1
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Weapon_WallMount をビルド中...
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Floor をビルド中...
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Wall をビルド中...
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Built static mesh [0.00s] /Game/Weapon_Pack/Mesh/Set/SM_Floor.SM_Floor
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Window_Wall_Tall をビルド中...
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon_Pack/Mesh/Set/SM_Wall.SM_Wall
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon_Pack/Mesh/Props/Interior/SM_Weapon_WallMount.SM_Weapon_WallMount
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Axe をビルド中...
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon_Pack/Mesh/Set/SM_Window_Wall_Tall.SM_Window_Wall_Tall
+[2023.12.18-12.32.22:385][988]LogStaticMesh: Display: スタティックメッシュ SM_Window_Frame_Large をビルド中...
+[2023.12.18-12.32.22:392][988]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe.SM_Axe
+[2023.12.18-12.32.22:416][988]LogStaticMesh: Display: スタティックメッシュ SM_Dagger_1 をビルド中...
+[2023.12.18-12.32.22:416][988]LogObjectTools: Deleting 1 worlds: /Game/Weapon_Pack/Map/Weapons_Kit.Weapons_Kit
+[2023.12.18-12.32.22:416][988]LogObjectTools: Currently 4 active worlds: /Game/Level/Test_Level.Test_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2023.12.18-12.32.22:428][988]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Dagger_1.SM_Dagger_1
+[2023.12.18-12.32.22:431][988]LogStaticMesh: Display: スタティックメッシュ SM_Dagger_2 をビルド中...
+[2023.12.18-12.32.22:431][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.18-12.32.22:449][988]LogStaticMesh: Built static mesh [0.06s] /Game/Weapon_Pack/Mesh/Set/SM_Window_Frame_Large.SM_Window_Frame_Large
+[2023.12.18-12.32.22:458][988]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Dagger_2.SM_Dagger_2
+[2023.12.18-12.32.22:493][988]LogStaticMesh: Display: スタティックメッシュ SM_GreatAxe をビルド中...
+[2023.12.18-12.32.22:493][988]LogStaticMesh: Display: スタティックメッシュ SM_H2H をビルド中...
+[2023.12.18-12.32.22:493][988]LogStaticMesh: Display: スタティックメッシュ SM_GreatHammer をビルド中...
+[2023.12.18-12.32.22:493][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_23 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:493][988]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_GreatAxe.SM_GreatAxe
+[2023.12.18-12.32.22:536][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_22 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:536][988]LogStaticMesh: Display: スタティックメッシュ SM_Mace をビルド中...
+[2023.12.18-12.32.22:536][988]LogStaticMesh: Built static mesh [0.05s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_H2H.SM_H2H
+[2023.12.18-12.32.22:538][988]LogStaticMesh: Display: スタティックメッシュ SM_Shield をビルド中...
+[2023.12.18-12.32.22:555][988]LogStaticMesh: Built static mesh [0.05s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Mace.SM_Mace
+[2023.12.18-12.32.22:561][988]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Shield.SM_Shield
+[2023.12.18-12.32.22:567][988]LogStaticMesh: Built static mesh [0.10s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_GreatHammer.SM_GreatHammer
+[2023.12.18-12.32.22:581][988]LogStaticMesh: Display: スタティックメッシュ SM_Sickle をビルド中...
+[2023.12.18-12.32.22:586][988]LogStaticMesh: Display: スタティックメッシュ SM_Spear をビルド中...
+[2023.12.18-12.32.22:600][988]LogStaticMesh: Display: スタティックメッシュ SM_Sword をビルド中...
+[2023.12.18-12.32.22:816][988]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle.SM_Sickle
+[2023.12.18-12.32.22:816][988]LogStaticMesh: Display: スタティックメッシュ SM_Throwing をビルド中...
+[2023.12.18-12.32.22:816][988]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.SM_Sword
+[2023.12.18-12.32.22:816][988]LogStaticMesh: Built static mesh [0.04s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Spear.SM_Spear
+[2023.12.18-12.32.22:816][988]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Throwing.SM_Throwing
+[2023.12.18-12.32.22:816][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_24 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:816][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_25 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:816][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_28 (TFO_AutoDXT, 64X64 X1X1) (推定必須メモリ：0.10416 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:816][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_26 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:816][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_27 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.22:961][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:048][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:125][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:271][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:271][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:276][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:454][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:554][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:599][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:658][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:697][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:800][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:810][988]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.18-12.32.23:821][988]LogWorld: UWorld::CleanupWorld for Weapons_Kit, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-12.32.23:823][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-12.32.23:845][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。0/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.23:944][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:944][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureCED624E741E6EFC486A610B49646B2AA (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.23:944][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。35/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:046][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:046][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:046][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:046][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。37/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:159][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:159][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_19 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:159][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。38/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:207][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:207][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。40/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:280][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:280][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。42/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:355][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_21 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:355][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。43/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:480][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_23 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:480][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_22 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:480][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_24 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:480][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。44/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:522][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。45/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:585][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_25 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:585][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_28 (TFO_DXT1, 64X64 X1X1) (推定必須メモリ：0.10416 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:585][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。47/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:647][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_26 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:647][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。48/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:743][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:743][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_27 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:743][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:743][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。49/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:782][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。50/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.24:873][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.24:874][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:022][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTexture078EF8074C62589281DD619B387934FB (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:022][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:022][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:022][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。54/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTexture1C4B7EE14A9CDC6466F38391B63402FC (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTexture549AC6C54C647DCE7F5418B1C4C3678F (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureA46B394E437C98545B89879CCC230DBE (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureC4629C0B45287CFFCA172C83A76A05BD (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureCE3AF4EF4EE64728D1DDE39F3E785D31 (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureDD5888BB4AEC2D20F38C9A90DC113688 (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:056][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。56/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureE0367EE54551684A0CAEA6B851D75569 (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 2048X2048 X1X1) (推定必須メモリ：106.66666 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureE878719C4B5CF969D6B9D28331F0D768 (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureEFE63EEB42A1B6A40C83A3976AE8168D (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData.Weapons_Kit_BuiltData:NewReflectionComponentTextureFD8D09A14E43AA4325949E862DD7ABA9 (BGRA8, 128X128 X1X1) (推定必須メモリ：2.499962 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Metallic.StainGlass_Metallic (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：20.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:151][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。57/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.25:185][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。58/124 (/Game/Weapon_Pack/Map/Weapons_Kit_BuiltData)…
+[2023.12.18-12.32.25:238][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。70/124 (/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Base_Color)…
+[2023.12.18-12.32.25:403][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Opacity.StainGlass_Opacity (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：20.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:403][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Roughness.StainGlass_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：20.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:403][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Base_Color.StainGlass_Base_Color (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.25:666][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Normal_DirectX.StainGlass_Normal_DirectX (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.26:054][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。72/124 (/Game/Weapon_Pack/Textures/Set/Stain_Glass/StainGlass_Normal_DirectX)…
+[2023.12.18-12.32.26:078][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。75/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Stone_Wall_Trim_BaseColor)…
+[2023.12.18-12.32.26:497][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Stone_Wall_Trim_BaseColor.T_Stone_Wall_Trim_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.26:708][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Stone_Wall_Trim_OcclusionRoughnessMetallic.T_Stone_Wall_Trim_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.26:710][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim_BaseColor.T_Window_Trim_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.26:919][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim_Normal.T_Window_Trim_Normal (TFO_BC5, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.26:919][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Stone_Wall_Trim_Normal.T_Stone_Wall_Trim_Normal (TFO_BC5, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.28:264][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。76/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Stone_Wall_Trim_Normal)…
+[2023.12.18-12.32.28:736][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。77/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Stone_Wall_Trim_OcclusionRoughnessMetallic)…
+[2023.12.18-12.32.28:865][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim_OcclusionRoughnessMetallic.T_Window_Trim_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.28:865][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。80/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim_OcclusionRoughnessMetallic)…
+[2023.12.18-12.32.29:022][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Fire/T_FireSubUV_11X11_32.T_FireSubUV_11X11_32 (TFO_AutoDXT, 1024X1024 X1X1) (推定必須メモリ：20.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:022][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Noise/T_TilingNoise16.T_TilingNoise16 (TFO_AutoDXT, 1024X1024 X1X1) (推定必須メモリ：20.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:230][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Noise/T_HeatTile3_N.T_HeatTile3_N (TFO_BC5, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:436][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim2_OcclusionRoughnessMetallic.T_Window_Trim2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:436][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim2_BaseColor.T_Window_Trim2_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:643][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim2_Normal.T_Window_Trim2_Normal (TFO_BC5, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:701][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Noise/T_TilingNoise03.T_TilingNoise03 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.29:701][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。81/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim2_BaseColor)…
+[2023.12.18-12.32.29:856][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Flares/T_FlareRound_Noise.T_FlareRound_Noise (TFO_AutoDXT, 1024X1024 X1X1) (推定必須メモリ：20.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.30:064][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Noise/T_TilingNoise12.T_TilingNoise12 (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.30:271][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Textures/Snow/T_Snow01_Packed.T_Snow01_Packed (TFO_AutoDXT, 256X256 X1X1) (推定必須メモリ：1.250 MB), エンコード速度：Fast
+[2023.12.18-12.32.30:271][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Effects/Particles/Fire/P_TorchFire.P_TorchFire:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (推定必須メモリ：5.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.30:480][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Banner_BaseColor.T_Banner_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.30:879][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。82/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim2_Normal)…
+[2023.12.18-12.32.31:067][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Banner_Normal.T_Banner_Normal (TFO_BC5, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.31:067][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Banners_OcclusionRoughnessMetallic.T_Banners_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.31:067][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。83/124 (/Game/Weapon_Pack/Textures/Set/Walls/T_Window_Trim2_OcclusionRoughnessMetallic)…
+[2023.12.18-12.32.31:181][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Banners_Normal.T_Banners_Normal (TFO_BC5, 2048X2048 X1X1) (推定必須メモリ：80.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.31:181][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。93/124 (/Game/Weapon_Pack/Textures/Props/Interior/T_Banner_Normal)…
+[2023.12.18-12.32.31:206][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。94/124 (/Game/Weapon_Pack/Textures/Props/Interior/T_Banners_Normal)…
+[2023.12.18-12.32.31:387][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。96/124 (/Game/Weapon_Pack/Textures/Props/Interior/T_Props1_BaseColor)…
+[2023.12.18-12.32.31:732][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Props1_BaseColor.T_Props1_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.31:939][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Props1_OcclusionRoughnessMetallic.T_Props1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.31:939][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Wood_Props_BaseColor.T_Wood_Props_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.32:147][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Props1_Normal.T_Props1_Normal (TFO_BC5, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.32:356][988]LogTexture: Display: テクスチャのビルド：/Game/Weapon_Pack/Textures/Props/Interior/T_Wood_Props_Normal.T_Wood_Props_Normal (TFO_BC5, 4096X4096 X1X1) (推定必須メモリ：320.000 MB), エンコード速度：Fast
+[2023.12.18-12.32.32:948][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。97/124 (/Game/Weapon_Pack/Textures/Props/Interior/T_Props1_Normal)…
+[2023.12.18-12.32.33:626][988]LogTexture: Display: テクスチャの準備ができるのを待ってます。98/124 (/Game/Weapon_Pack/Textures/Props/Interior/T_Props1_OcclusionRoughnessMetallic)…

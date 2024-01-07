@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\inc\\study_c\\playgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\study_ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\development\\study_c\\definitions.study_c.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\source\\study_c\\public\\gamemode\\playgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\inc\\study_c\\playgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

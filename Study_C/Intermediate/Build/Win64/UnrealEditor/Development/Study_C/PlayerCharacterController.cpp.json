@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\source\\study_c\\private\\controller\\playercharactercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\study_ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\development\\study_c\\definitions.study_c.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\source\\study_c\\public\\controller\\playercharactercontroller.h",
+            "c:\\users\\reiji\\desktop\\ue5_c++\\ue5_c\\study_c\\intermediate\\build\\win64\\unrealeditor\\inc\\study_c\\playercharactercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

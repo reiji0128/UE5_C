@@ -1,5 +1,17 @@
 ﻿  Using bundled DotNet SDK
-  Log file: C:\Users\玲士\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (D:\UE5_C++\UE5_C\UE5_C).
-UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "G:\UE_5.0\Engine\Build\BatchFiles\Build.bat Study_CEditor Win64 Development -Project="D:\UE5_C++\UE5_C\UE5_C\Study_C\Study_C.uproject" -WaitMutex -FromMsBuild" exited with code 6.
+  Log file: C:\Users\reiji\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\reiji\Desktop\UE5_C++\UE5_C).
+  Building Study_CEditor...
+  Using Visual Studio 2019 14.29.30153 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 6.16 GB available: limiting max parallel actions to 4
+  Building 4 actions with 4 processes...
+  [1/4] Compile PlayerPawn.cpp
+  [2/4] Link UnrealEditor-Study_C-0040.lib
+     ライブラリ C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\UnrealEditor-Study_C-0040.lib とオブジェクト C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\UnrealEditor-Study_C-0040.exp を作成中
+  [3/4] Link UnrealEditor-Study_C-0040.dll
+     ライブラリ C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\UnrealEditor-Study_C-0040.suppressed.lib とオブジェクト C:\Users\reiji\Desktop\UE5_C++\UE5_C\Study_C\Intermediate\Build\Win64\UnrealEditor\Development\Study_C\UnrealEditor-Study_C-0040.suppressed.exp を作成中
+  [4/4] WriteMetadata Study_CEditor.target
+  Total time in Parallel executor: 2.27 seconds
+  Total execution time: 3.40 seconds
